@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-10-09T07:20:00Z",
   "files": {
     "fa": "content/fa.json",
@@ -8,4 +8,3 @@
     "en": "content/en.json"
   }
 }
-
