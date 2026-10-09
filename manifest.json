@@ -1,1 +1,11 @@
+{
+  "version": 2,
+  "updatedAt": "2026-10-09T07:20:00Z",
+  "files": {
+    "fa": "content/fa.json",
+    "ps": "content/ps.json",
+    "ar": "content/ar.json",
+    "en": "content/en.json"
+  }
+}
 
