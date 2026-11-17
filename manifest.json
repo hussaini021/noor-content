@@ -1,10 +1,11 @@
 {
-  "version": 6,
-  "updatedAt": "2026-11-17T07:10:22Z",
+  "version": 7,
+  "updatedAt": "2026-11-17T12:00:00Z",
   "files": {
     "fa": "content/fa.json",
     "ps": "content/ps.json",
     "ar": "content/ar.json",
     "en": "content/en.json"
-  }
+  },
+  "deleteFile": "delete.json"
 }
