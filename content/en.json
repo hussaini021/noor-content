@@ -5,12 +5,12 @@
     "category": "hope",
     "title": "",
     "text": "Indeed, with hardship comes ease.",
-    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
     "reference": "Ash-Sharh 94:5",
-    "surahNumber": 94,
-    "ayahNumber": 5,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "surahNumber": 94,
+    "ayahNumber": 5
   },
   {
     "id": "quran-094-006-02",
@@ -18,12 +18,12 @@
     "category": "hope",
     "title": "",
     "text": "Indeed, with hardship comes ease.",
-    "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
     "reference": "Ash-Sharh 94:6",
-    "surahNumber": 94,
-    "ayahNumber": 6,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "surahNumber": 94,
+    "ayahNumber": 6
   },
   {
     "id": "quran-039-053-03",
@@ -31,12 +31,12 @@
     "category": "mercy",
     "title": "",
     "text": "Do not despair of the mercy of Allah.",
-    "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
     "reference": "Az-Zumar 39:53 (verse excerpt)",
-    "surahNumber": 39,
-    "ayahNumber": 53,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+    "surahNumber": 39,
+    "ayahNumber": 53
   },
   {
     "id": "quran-013-028-04",
@@ -44,12 +44,12 @@
     "category": "peace",
     "title": "",
     "text": "Surely, in the remembrance of Allah hearts find peace.",
-    "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
     "reference": "Ar-Rad 13:28 (verse excerpt)",
-    "surahNumber": 13,
-    "ayahNumber": 28,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "surahNumber": 13,
+    "ayahNumber": 28
   },
   {
     "id": "quran-002-153-05",
@@ -57,12 +57,12 @@
     "category": "patience",
     "title": "",
     "text": "Indeed, Allah is with those who are patient.",
-    "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
     "reference": "Al-Baqarah 2:153 (verse excerpt)",
-    "surahNumber": 2,
-    "ayahNumber": 153,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "surahNumber": 2,
+    "ayahNumber": 153
   },
   {
     "id": "quran-065-003-06",
@@ -70,12 +70,12 @@
     "category": "trust",
     "title": "",
     "text": "Whoever puts their trust in Allah, He is sufficient for them.",
-    "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
     "reference": "At-Talaq 65:3 (verse excerpt)",
-    "surahNumber": 65,
-    "ayahNumber": 3,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+    "surahNumber": 65,
+    "ayahNumber": 3
   },
   {
     "id": "quran-014-007-07",
@@ -83,12 +83,12 @@
     "category": "gratitude",
     "title": "",
     "text": "If you are grateful, I will surely give you more.",
-    "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
     "reference": "Ibrahim 14:7 (verse excerpt)",
-    "surahNumber": 14,
-    "ayahNumber": 7,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+    "surahNumber": 14,
+    "ayahNumber": 7
   },
   {
     "id": "quran-002-083-08",
@@ -96,12 +96,12 @@
     "category": "kindness",
     "title": "",
     "text": "Speak kindly to people.",
-    "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
     "reference": "Al-Baqarah 2:83 (verse excerpt)",
-    "surahNumber": 2,
-    "ayahNumber": 83,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+    "surahNumber": 2,
+    "ayahNumber": 83
   },
   {
     "id": "quran-007-156-09",
@@ -109,12 +109,12 @@
     "category": "mercy",
     "title": "",
     "text": "My mercy encompasses all things.",
-    "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
     "reference": "Al-Araf 7:156 (verse excerpt)",
-    "surahNumber": 7,
-    "ayahNumber": 156,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+    "surahNumber": 7,
+    "ayahNumber": 156
   },
   {
     "id": "quran-002-152-10",
@@ -122,12 +122,12 @@
     "category": "peace",
     "title": "",
     "text": "Remember Me; I will remember you.",
-    "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
     "reference": "Al-Baqarah 2:152 (verse excerpt)",
-    "surahNumber": 2,
-    "ayahNumber": 152,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+    "surahNumber": 2,
+    "ayahNumber": 152
   },
   {
     "id": "quran-012-087-11",
@@ -135,12 +135,12 @@
     "category": "hope",
     "title": "",
     "text": "Do not lose hope in the relief that comes from Allah.",
-    "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
     "reference": "Yusuf 12:87 (verse excerpt)",
-    "surahNumber": 12,
-    "ayahNumber": 87,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
+    "surahNumber": 12,
+    "ayahNumber": 87
   },
   {
     "id": "quran-002-155-12",
@@ -148,12 +148,12 @@
     "category": "patience",
     "title": "",
     "text": "Give good news to those who are patient.",
-    "arabic": "وَبَشِّرِ الصَّابِرِينَ",
     "reference": "Al-Baqarah 2:155 (verse excerpt)",
-    "surahNumber": 2,
-    "ayahNumber": 155,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَبَشِّرِ الصَّابِرِينَ",
+    "surahNumber": 2,
+    "ayahNumber": 155
   },
   {
     "id": "quran-003-173-13",
@@ -161,12 +161,12 @@
     "category": "trust",
     "title": "",
     "text": "Allah is sufficient for us, and He is the best Disposer of affairs.",
-    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
     "reference": "Ali Imran 3:173 (verse excerpt)",
-    "surahNumber": 3,
-    "ayahNumber": 173,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "surahNumber": 3,
+    "ayahNumber": 173
   },
   {
     "id": "quran-002-195-14",
@@ -174,12 +174,12 @@
     "category": "kindness",
     "title": "",
     "text": "Indeed, Allah loves those who do good.",
-    "arabic": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
     "reference": "Al-Baqarah 2:195 (verse excerpt)",
-    "surahNumber": 2,
-    "ayahNumber": 195,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "surahNumber": 2,
+    "ayahNumber": 195
   },
   {
     "id": "quran-002-152-15",
@@ -187,12 +187,12 @@
     "category": "gratitude",
     "title": "",
     "text": "Be grateful to Me and do not be ungrateful.",
-    "arabic": "وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
     "reference": "Al-Baqarah 2:152 (verse excerpt)",
-    "surahNumber": 2,
-    "ayahNumber": 152,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+    "surahNumber": 2,
+    "ayahNumber": 152
   },
   {
     "id": "quran-057-004-16",
@@ -200,12 +200,12 @@
     "category": "peace",
     "title": "",
     "text": "He is with you wherever you are.",
-    "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
     "reference": "Al-Hadid 57:4 (verse excerpt)",
-    "surahNumber": 57,
-    "ayahNumber": 4,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
+    "surahNumber": 57,
+    "ayahNumber": 4
   },
   {
     "id": "quran-011-061-17",
@@ -213,12 +213,12 @@
     "category": "hope",
     "title": "",
     "text": "Indeed, my Lord is near and responsive.",
-    "arabic": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ",
     "reference": "Hud 11:61 (verse excerpt)",
-    "surahNumber": 11,
-    "ayahNumber": 61,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ",
+    "surahNumber": 11,
+    "ayahNumber": 61
   },
   {
     "id": "quran-070-005-18",
@@ -226,12 +226,12 @@
     "category": "patience",
     "title": "",
     "text": "So be patient with gracious patience.",
-    "arabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
     "reference": "Al-Maarij 70:5",
-    "surahNumber": 70,
-    "ayahNumber": 5,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+    "surahNumber": 70,
+    "ayahNumber": 5
   },
   {
     "id": "quran-002-237-19",
@@ -239,12 +239,12 @@
     "category": "kindness",
     "title": "",
     "text": "Do not forget graciousness toward one another.",
-    "arabic": "وَلَا تَنسَوُا الْفَضْلَ بَيْنَكُمْ",
     "reference": "Al-Baqarah 2:237 (verse excerpt)",
-    "surahNumber": 2,
-    "ayahNumber": 237,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَلَا تَنسَوُا الْفَضْلَ بَيْنَكُمْ",
+    "surahNumber": 2,
+    "ayahNumber": 237
   },
   {
     "id": "quran-094-008-20",
@@ -252,12 +252,12 @@
     "category": "trust",
     "title": "",
     "text": "Turn your longing to your Lord alone.",
-    "arabic": "وَإِلَىٰ رَبِّكَ فَارْغَب",
     "reference": "Ash-Sharh 94:8",
-    "surahNumber": 94,
-    "ayahNumber": 8,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَإِلَىٰ رَبِّكَ فَارْغَب",
+    "surahNumber": 94,
+    "ayahNumber": 8
   },
   {
     "id": "hadith-001",
@@ -265,10 +265,10 @@
     "category": "kindness",
     "title": "",
     "text": "Actions are judged by intentions.",
-    "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
     "reference": "Sahih al-Bukhari, hadith 1",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ"
   },
   {
     "id": "hadith-002",
@@ -276,10 +276,10 @@
     "category": "kindness",
     "title": "",
     "text": "A good word is charity.",
-    "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
     "reference": "Sahih al-Bukhari and Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ"
   },
   {
     "id": "hadith-003",
@@ -287,10 +287,10 @@
     "category": "kindness",
     "title": "",
     "text": "Religion is sincere counsel.",
-    "arabic": "الدِّينُ النَّصِيحَةُ",
     "reference": "Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الدِّينُ النَّصِيحَةُ"
   },
   {
     "id": "hadith-004",
@@ -298,10 +298,10 @@
     "category": "mercy",
     "title": "",
     "text": "Whoever does not show mercy will not be shown mercy.",
-    "arabic": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ",
     "reference": "Sahih al-Bukhari and Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ"
   },
   {
     "id": "hadith-005",
@@ -309,10 +309,10 @@
     "category": "kindness",
     "title": "",
     "text": "Do not become angry.",
-    "arabic": "لَا تَغْضَبْ",
     "reference": "Sahih al-Bukhari",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا تَغْضَبْ"
   },
   {
     "id": "hadith-006",
@@ -320,10 +320,10 @@
     "category": "kindness",
     "title": "",
     "text": "Make things easy, and do not make them difficult.",
-    "arabic": "يَسِّرُوا وَلَا تُعَسِّرُوا",
     "reference": "Sahih al-Bukhari and Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "يَسِّرُوا وَلَا تُعَسِّرُوا"
   },
   {
     "id": "hadith-007",
@@ -331,10 +331,10 @@
     "category": "kindness",
     "title": "",
     "text": "Give glad tidings, and do not drive people away.",
-    "arabic": "بَشِّرُوا وَلَا تُنَفِّرُوا",
     "reference": "Sahih al-Bukhari and Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "بَشِّرُوا وَلَا تُنَفِّرُوا"
   },
   {
     "id": "hadith-008",
@@ -342,10 +342,10 @@
     "category": "kindness",
     "title": "",
     "text": "Whoever cheats us is not one of us.",
-    "arabic": "مَنْ غَشَّنَا فَلَيْسَ مِنَّا",
     "reference": "Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ غَشَّنَا فَلَيْسَ مِنَّا"
   },
   {
     "id": "hadith-009",
@@ -353,10 +353,10 @@
     "category": "kindness",
     "title": "",
     "text": "Modesty is a branch of faith.",
-    "arabic": "الْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ",
     "reference": "Sahih al-Bukhari and Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ"
   },
   {
     "id": "hadith-010",
@@ -364,10 +364,10 @@
     "category": "gratitude",
     "title": "",
     "text": "Purification is half of faith.",
-    "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
     "reference": "Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ"
   },
   {
     "id": "hadith-011",
@@ -375,10 +375,10 @@
     "category": "gratitude",
     "title": "",
     "text": "Praise be to Allah fills the scale.",
-    "arabic": "الْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ",
     "reference": "Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ"
   },
   {
     "id": "hadith-012",
@@ -386,10 +386,10 @@
     "category": "kindness",
     "title": "",
     "text": "Your smile to your brother is charity for you.",
-    "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
     "reference": "Jami at-Tirmidhi",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ"
   },
   {
     "id": "hadith-013",
@@ -397,10 +397,10 @@
     "category": "kindness",
     "title": "",
     "text": "Whoever guides someone to good has a reward like the one who does it.",
-    "arabic": "مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ",
     "reference": "Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ"
   },
   {
     "id": "hadith-014",
@@ -408,10 +408,10 @@
     "category": "patience",
     "title": "",
     "text": "Patience is illumination.",
-    "arabic": "الصَّبْرُ ضِيَاءٌ",
     "reference": "Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الصَّبْرُ ضِيَاءٌ"
   },
   {
     "id": "hadith-015",
@@ -419,10 +419,10 @@
     "category": "kindness",
     "title": "",
     "text": "Righteousness is good character.",
-    "arabic": "الْبِرُّ حُسْنُ الْخُلُقِ",
     "reference": "Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْبِرُّ حُسْنُ الْخُلُقِ"
   },
   {
     "id": "hadith-016",
@@ -430,10 +430,10 @@
     "category": "kindness",
     "title": "",
     "text": "A talebearer will not enter Paradise.",
-    "arabic": "لَا يَدْخُلُ الْجَنَّةَ نَمَّامٌ",
     "reference": "Sahih al-Bukhari and Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا يَدْخُلُ الْجَنَّةَ نَمَّامٌ"
   },
   {
     "id": "hadith-017",
@@ -441,10 +441,10 @@
     "category": "kindness",
     "title": "",
     "text": "Whoever remains silent is saved.",
-    "arabic": "مَنْ صَمَتَ نَجَا",
     "reference": "Jami at-Tirmidhi; narration grading requires verification",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ صَمَتَ نَجَا"
   },
   {
     "id": "hadith-018",
@@ -452,10 +452,10 @@
     "category": "kindness",
     "title": "",
     "text": "A Muslim is the brother of another Muslim.",
-    "arabic": "الْمُسْلِمُ أَخُو الْمُسْلِمِ",
     "reference": "Sahih al-Bukhari and Sahih Muslim",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْمُسْلِمُ أَخُو الْمُسْلِمِ"
   },
   {
     "id": "hadith-019",
@@ -463,10 +463,10 @@
     "category": "kindness",
     "title": "",
     "text": "Do not envy one another.",
-    "arabic": "لَا تَحَاسَدُوا",
     "reference": "Sahih Muslim (excerpt)",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا تَحَاسَدُوا"
   },
   {
     "id": "hadith-020",
@@ -474,10 +474,10 @@
     "category": "mercy",
     "title": "",
     "text": "The merciful are shown mercy by the Most Merciful.",
-    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ",
     "reference": "Sunan Abi Dawud and Jami at-Tirmidhi",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ"
   },
   {
     "id": "story-original-001",
@@ -577,6 +577,1706 @@
     "text": "At the end of the day, a baker gave a loaf of warm bread to an elderly neighbor. Smiling, the neighbor said, “Someone remembered me today.” The bread was more than food; it was a sign of care.",
     "reference": "Original short fiction; not a historical account or hadith",
     "publishedAt": "2026-10-09",
+    "active": true
+  },
+  {
+    "id": "hadith-021",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "بهترین مردم کسی است که برای مردم سودمندتر باشد.",
+    "reference": "المعجم الاوسط طبرانی، حدیث ۵۷۸۷ (حسن)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ"
+  },
+  {
+    "id": "hadith-022",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "خدای رحمان به مهربانان رحم می‌کند؛ به کسانی که در زمین هستند رحم کنید تا کسی که در آسمان است به شما رحم کند.",
+    "reference": "سنن ترمذی، حدیث ۱۹۲۴ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ، ارْحَمُوا مَنْ فِي الأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ"
+  },
+  {
+    "id": "hadith-023",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "مسلمان واقعی کسی است که سایر مسلمانان از زبان و دست او در امان باشند.",
+    "reference": "صحیح بخاری، حدیث ۱۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ"
+  },
+  {
+    "id": "hadith-024",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "هیچ‌یک از شما ایمان کامل ندارد تا آنکه هر چه برای خود دوست دارد، برای برادرش نیز دوست بدارد.",
+    "reference": "صحیح بخاری، حدیث ۱۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ"
+  },
+  {
+    "id": "hadith-025",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "نیرومند کسی نیست که دیگران را به زمین بزند، بلکه نیرومند واقعی کسی است که هنگام خشم بر نفس خود مسلط باشد.",
+    "reference": "صحیح بخاری، حدیث ۶۱۱۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ"
+  },
+  {
+    "id": "hadith-026",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "سخن نیک و دلنشین صدقه است.",
+    "reference": "صحیح بخاری، حدیث ۲۹۸۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ"
+  },
+  {
+    "id": "hadith-027",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "کسی که از مردم سپاسگزاری نکند، شکر الله را به جا نیاورده است.",
+    "reference": "سنن ترمذی، حدیث ۱۹۵۴ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ لَا يَشْكُرُ النَّاسَ لَا يَشْكُرُ اللَّهَ"
+  },
+  {
+    "id": "hadith-028",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "آسان بگیرید و سخت نگیرید؛ نوید دهید و فراری ندهید.",
+    "reference": "صحیح بخاری، حدیث ۶۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا"
+  },
+  {
+    "id": "hadith-029",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "همانا الله به چهره‌ها و دارایی‌های شما نگاه نمی‌کند، بلکه به دل‌ها و کردارهای شما می‌نگرد.",
+    "reference": "صحیح مسلم، حدیث ۲۵۶۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ"
+  },
+  {
+    "id": "hadith-030",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "شگفتا از کار مؤمن که همه امورش خیر است؛ اگر خوشی به او رسد شکر می‌کند و اگر سختی رسد صبر می‌کند و به نفع اوست.",
+    "reference": "صحیح مسلم، حدیث ۲۹۹۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "عَجَبًا لِأَمْرِ الْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ"
+  },
+  {
+    "id": "hadith-031",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "هر کجا بودی از الله پروا کن، و پس از هر لغزشی کاری نیک انجام ده تا آن را پاک کند، و با مردم به اخلاق نیکو رفتار نما.",
+    "reference": "سنن ترمذی، حدیث ۱۹۸۷ (حسن صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ"
+  },
+  {
+    "id": "hadith-032",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "کسی که رحم نکند، مورد رحمت قرار نمی‌گیرد.",
+    "reference": "صحیح بخاری، حدیث ۵۹۹۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ"
+  },
+  {
+    "id": "hadith-033",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "محبوب‌ترین کارها نزد الله، پیوسته‌ترین آن‌هاست هرچند اندک باشد.",
+    "reference": "صحیح بخاری، حدیث ۶۴۶۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ"
+  },
+  {
+    "id": "hadith-034",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "حدود الله را حفظ کن تا او تو را حفظ کند؛ یاد الله را نگاه دار تا او را پیش روی خود بیابی.",
+    "reference": "سنن ترمذی، حدیث ۲۵۱۶ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ"
+  },
+  {
+    "id": "hadith-035",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "از زیبایی و کمال اسلام انسان این است که آنچه را به او مربوط نیست رها کند.",
+    "reference": "سنن ترمذی، حدیث ۲۳۱۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ"
+  },
+  {
+    "id": "hadith-036",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "هر کس به الله و روز قیامت ایمان دارد، باید سخن نیک بگوید یا سکوت اختیار کند.",
+    "reference": "صحیح بخاری، حدیث ۶۰۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ"
+  },
+  {
+    "id": "hadith-037",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "و الله در یاری بنده است، تا زمانی که بنده در یاری برادر و همنوع خویش باشد.",
+    "reference": "صحیح مسلم، حدیث ۲۶۹۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَاللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ"
+  },
+  {
+    "id": "hadith-038",
+    "type": "hadith",
+    "category": "hope",
+    "title": "",
+    "text": "هر کس راهی را برای طلب دانش بپیماید، الله به سبب آن راهی به سوی بهشت را برایش آسان می‌گرداند.",
+    "reference": "صحیح مسلم، حدیث ۲۶۹۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ"
+  },
+  {
+    "id": "hadith-039",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "در امور دنیوی به کسانی بنگرید که پایین‌تر از شما هستند نه بالاتر از شما؛ این کار سزاوارتر است تا نعمت الله را بر خود کوچک نشمارید.",
+    "reference": "صحیح مسلم، حدیث ۲۹۶۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "انْظُرُوا إِلَى مَنْ أَسْفَلَ مِنْكُمْ، وَلَا تَنْظُرُوا إِلَى مَنْ هُوَ فَوْقَكُمْ، فَهُوَ أَجْدَرُ أَنْ لَا تَزْدَرُوا نِعْمَةَ اللَّهِ"
+  },
+  {
+    "id": "hadith-040",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "به یکدیگر حسادت نورزید، با هم کینه‌توزی نکنید، به یکدیگر پشت ننمایید و ای بندگان خدا با هم برادر باشید.",
+    "reference": "صحیح مسلم، حدیث ۲۵۶۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا تَحَاسَدُوا، وَلَا تَبَاغَضُوا، وَلَا تَدَابَرُوا، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا"
+  },
+  {
+    "id": "hadith-041",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "مدارا و نرمی در هیچ کاری قرار نمی‌گیرد مگر آنکه آن را زیبا می‌سازد، و از هیچ کاری برداشته نمی‌شود مگر آنکه آن را زشت می‌گرداند.",
+    "reference": "صحیح مسلم، حدیث ۲۵۹۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ"
+  },
+  {
+    "id": "hadith-042",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "اگر شما آن‌گونه که شایسته است بر الله توکل می‌کردید، همانند پرندگان روزی داده می‌شدید که صبح گرسنه می‌روند و شامگاه سیر بازمی‌گردند.",
+    "reference": "سنن ترمذی، حدیث ۲۳۴۴ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَوْ أَنَّكُمْ كُنْتُمْ تَوَكَّلُونَ عَلَى اللَّهِ حَقَّ تَوَكُّلِهِ لَرُزِقْتُمْ كَمَا يُرْزَقُ الطَّيْرُ"
+  },
+  {
+    "id": "hadith-043",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "به هیچ کس عطا و بخششی بهتر و گسترده‌تر از صبر داده نشده است.",
+    "reference": "صحیح بخاری، حدیث ۱۴۶۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَمَا أُعْطِيَ أَحَدٌ عَطَاءً خَيْرًا وَأَوْسَعَ مِنَ الصَّبْرِ"
+  },
+  {
+    "id": "hadith-044",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "هیچ صدقه‌ای از مال کم نمی‌کند، و الله به بنده‌ای که گذشت کند جز عزت و سربلندی نمی‌افزاید.",
+    "reference": "صحیح مسلم، حدیث ۲۵۸۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ، وَمَا زَادَ اللَّهُ عَبْدًا بِعَفْوٍ إِلَّا عِزًّا"
+  },
+  {
+    "id": "hadith-045",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "کامل‌ترین مؤمنان از نظر ایمان، خوش‌اخلاق‌ترین آنان است.",
+    "reference": "سنن ترمذی، حدیث ۱۱۶۲ (حسن صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا"
+  },
+  {
+    "id": "hadith-046",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "دعا کردن، همان روح و حقیقت عبادت است.",
+    "reference": "سنن ترمذی، حدیث ۳۳۷۲ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الدُّعَاءُ هُوَ الْعِبَادَةُ"
+  },
+  {
+    "id": "hadith-047",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "پاکیزگی نیمی از ایمان است و گفتن «الحمد لله» ترازوی اعمال را پر می‌کند.",
+    "reference": "صحیح مسلم، حدیث ۲۲۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ، وَالْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ"
+  },
+  {
+    "id": "hadith-048",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "دور کردن سنگ و مانع آزاردهنده از سر راه مردم، صدقه است.",
+    "reference": "صحیح بخاری، حدیث ۲۹۸۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِزَالَةُ الْأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ"
+  },
+  {
+    "id": "hadith-049",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "پرهیز از سه خصلت ناپسند: دروغ در گفتار، خلف وعده در پیمان، و خیانت در امانت.",
+    "reference": "صحیح بخاری، حدیث ۳۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "آيَةُ الْمُنَافِقِ ثَلَاثٌ: إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ"
+  },
+  {
+    "id": "hadith-050",
+    "type": "hadith",
+    "category": "hope",
+    "title": "",
+    "text": "خداوند متعال می‌فرماید: من نزد گمان نیک بنده‌ام به خود هستم و هرگاه مرا یاد کند با اویم.",
+    "reference": "صحیح بخاری، حدیث ۷۴۰۵",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "يَقُولُ اللَّهُ تَعَالَى: أَنَا عِنْدَ ظَنِّ عَبْدِي بِي، وَأَنَا مَعَهُ إِذَا ذَكَرَنِي"
+  },
+  {
+    "id": "hadith-051",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "هر کس به الله و روز رستاخیز ایمان دارد، باید مهمان خود را گرامی بدارد.",
+    "reference": "صحیح بخاری، حدیث ۶۰۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ ضَيْفَهُ"
+  },
+  {
+    "id": "hadith-052",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "هر کس به الله و روز قیامت ایمان دارد، نباید همسایه خود را بیازارد.",
+    "reference": "صحیح بخاری، حدیث ۶۰۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلَا يُؤْذِ جَارَهُ"
+  },
+  {
+    "id": "hadith-053",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "در نیکی و سیراب کردن هر موجود زنده‌ای پاداش است.",
+    "reference": "صحیح بخاری، حدیث ۲۳۶۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "فِي كُلِّ كَبِدٍ رَطْبَةٍ أَجْرٌ"
+  },
+  {
+    "id": "hadith-054",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "سلام کردن را در میان خود آشکار و فراگیر کنید تا محبت میان شما فزونی یابد.",
+    "reference": "صحیح مسلم، حدیث ۵۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَفْشُوا السَّلَامَ بَيْنَكُمْ"
+  },
+  {
+    "id": "hadith-055",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "هیچ خستگی، بیماری، دغدغه و اندوهی به مسلمان نمی‌رسد مگر آنکه الله به سبب آن از گناهانش می‌بخشد.",
+    "reference": "صحیح بخاری، حدیث ۵۶۴۱",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلَا وَصَبٍ وَلَا هَمٍّ وَلَا حُزْنٍ إِلَّا كَفَّرَ اللَّهُ بِهِ مِنْ خَطَايَاهُ"
+  },
+  {
+    "id": "hadith-056",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "دو نعمت است که بسیاری از مردم قدر آن را نمی‌دانند: تندرستی و اوقات فراغت.",
+    "reference": "صحیح بخاری، حدیث ۶۴۱۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ: الصِّحَّةُ وَالْفَرَاغُ"
+  },
+  {
+    "id": "hadith-057",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "بر شما باد به راستگویی؛ زیرا راستی به سوی نیکی هدایت می‌کند و نیکی به سوی بهشت رهنمون می‌شود.",
+    "reference": "صحیح مسلم، حدیث ۲۶۰۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "عَلَيْكُمْ بِالصِّدْقِ، فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ"
+  },
+  {
+    "id": "hadith-058",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "کسی که برای یاری و تأمین بیوه‌زنان و تهیدستان تلاش می‌کند، همچون مجاهد در راه خدا و شب‌زنده‌دار است.",
+    "reference": "صحیح بخاری، حدیث ۵۳۵۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "السَّاعِي عَلَى الْأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ فِي سَبِيلِ اللَّهِ"
+  },
+  {
+    "id": "hadith-059",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "بی‌نیازی به فراوانی مال و متاع نیست، بلکه بی‌نیازی واقعی، بی‌نیازی دل و قناعت نفس است.",
+    "reference": "صحیح بخاری، حدیث ۶۴۴۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَيْسَ الْغِنَى عَنْ كَثْرَةِ الْعَرَضِ، وَلَكِنَّ الْغِنَى غِنَى النَّفْسِ"
+  },
+  {
+    "id": "hadith-060",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "هر کس عیب مسلمانی را بپوشاند، الله عیب او را در دنیا و آخرت می‌پوشاند.",
+    "reference": "صحیح مسلم، حدیث ۲۶۹۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ"
+  },
+  {
+    "id": "hadith-061",
+    "type": "hadith",
+    "category": "hope",
+    "title": "",
+    "text": "به کسانی که در تاریکی‌ها به سوی مساجد گام برمی‌دارند، بشارت نور کامل در روز قیامت را بده.",
+    "reference": "سنن ابوداوود، حدیث ۵۶۱ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "بَشِّرِ الْمَشَّائِينَ فِي الظُّلَمِ إِلَى الْمَسَاجِدِ بِالنُّورِ التَّامِّ يَوْمَ الْقِيَامَةِ"
+  },
+  {
+    "id": "hadith-062",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "هر یک از شما که صبح کند در حالی که در خانه خود ایمن است، تنش سالم است و روزی آن روزش را دارد، گویی تمام دنیا به او داده شده است.",
+    "reference": "سنن ترمذی، حدیث ۲۳۴۶ (حسن)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ أَصْبَحَ مِنْكُمْ آمِنًا فِي سِرْبِهِ، مُعَافًى فِي جَسَدِهِ، عِنْدَهُ قُوتُ يَوْمِهِ، فَكَأَنَّمَا حِيزَتْ لَهُ الدُّنْيَا"
+  },
+  {
+    "id": "hadith-063",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "دست بخشنده و دهنده، برتر و بهتر از دست گیرنده است.",
+    "reference": "صحیح بخاری، حدیث ۱۴۲۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى"
+  },
+  {
+    "id": "hadith-064",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "صبر واقعی و پرفضیلت، شکیبایی در نخستین لحظه برخورد با مصیبت است.",
+    "reference": "صحیح بخاری، حدیث ۱۲۸۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّمَا الصَّبْرُ عِنْدَ الصَّدْمَةِ الْأُولَى"
+  },
+  {
+    "id": "hadith-065",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "مَثَل کسی که پروردگارش را یاد می‌کند و کسی که یاد نمی‌کند، مانند زنده و مرده است.",
+    "reference": "صحیح بخاری، حدیث ۶۴۰۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَثَلُ الَّذِي يَذْكُرُ رَبَّهُ وَالَّذِي لَا يَذْكُرُ رَبَّهُ مَثَلُ الْحَيِّ وَالْمَيِّتِ"
+  },
+  {
+    "id": "hadith-066",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "هیچ مسلمانی نهالی نمی‌کارد یا کشتزاری نمی‌آراید که پرنده یا انسان یا چرنده‌ای از آن بخورد، مگر آنکه برای او صدقه محسوب می‌شود.",
+    "reference": "صحیح بخاری، حدیث ۲۳۲۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَا مِنْ مُسْلِمٍ يَغْرِسُ غَرْسًا أَوْ يَزْرَعُ زَرْعًا فَيَأْكُلُ مِنْهُ طَيْرٌ أَوْ إِنْسَانٌ أَوْ بَهِيمَةٌ إِلَّا كَانَ لَهُ بِهِ صَدَقَةٌ"
+  },
+  {
+    "id": "hadith-067",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "امانت را به کسی که تو را امین دانسته بازگردان، و حتی به کسی که به تو خیانت کرده خیانت مکن.",
+    "reference": "سنن ابوداوود، حدیث ۳۵۳۵ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَدِّ الْأَمَانَةَ إِلَى مَنِ ائْتَمَنَكَ، وَلَا تَخُنْ مَنْ خَانَكَ"
+  },
+  {
+    "id": "hadith-068",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "به یکدیگر هدیه بدهید تا محبت میان شما فزونی گیرد.",
+    "reference": "الادب المفرد بخاری، حدیث ۵۹۴ (حسن)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "تَهَادَوْا تَحَابُّوا"
+  },
+  {
+    "id": "hadith-069",
+    "type": "hadith",
+    "category": "hope",
+    "title": "",
+    "text": "هر انسان خطاکار است و بهترین خطاکاران کسانی هستند که به سوی خدا بازمی‌گردند و توبه می‌کنند.",
+    "reference": "سنن ترمذی، حدیث ۲۴۹۹ (حسن)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "كُلُّ ابْنِ آدَمَ خَطَّاءٌ، وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ"
+  },
+  {
+    "id": "hadith-070",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "دو جمله بر زبان سبک، در ترازوی اعمال سنگین و نزد خدای رحمان محبوب‌اند: سبحان الله و بحمده، سبحان الله العظیم.",
+    "reference": "صحیح بخاری، حدیث ۶۴۰۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ"
+  },
+  {
+    "id": "quran-002-286-21",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "خداوند هیچ کس را جز به اندازه توانش تکلیف نمی‌کند.",
+    "reference": "بقره، ۲:۲۸۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+    "surahNumber": 2,
+    "ayahNumber": 286
+  },
+  {
+    "id": "quran-002-186-22",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "و هنگامی که بندگانم از تو درباره من بپرسند، همانا من نزدیکم و دعای دعاکننده را هنگامی که مرا بخواند اجابت می‌کنم.",
+    "reference": "بقره، ۲:۱۸۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ",
+    "surahNumber": 2,
+    "ayahNumber": 186
+  },
+  {
+    "id": "quran-003-139-23",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "و سست نشوید و غمگین نگردید، که شما برترید اگر مؤمن باشید.",
+    "reference": "آل‌عمران، ۳:۱۳۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+    "surahNumber": 3,
+    "ayahNumber": 139
+  },
+  {
+    "id": "quran-003-159-24",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "پس چون تصمیم گرفتی، بر الله توکل کن؛ زیرا الله توکل‌کنندگان را دوست دارد.",
+    "reference": "آل‌عمران، ۳:۱۵۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ",
+    "surahNumber": 3,
+    "ayahNumber": 159
+  },
+  {
+    "id": "quran-009-051-25",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "بگو: هرگز چیزی جز آنچه الله برای ما مقرر داشته به ما نمی‌رسد؛ او سرپرست ماست و مؤمنان باید تنها بر الله توکل کنند.",
+    "reference": "توبه، ۹:۵۱",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+    "surahNumber": 9,
+    "ayahNumber": 51
+  },
+  {
+    "id": "quran-009-040-26",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "اندوهگین مباش، که بی‌گمان الله با ماست.",
+    "reference": "توبه، ۹:۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+    "surahNumber": 9,
+    "ayahNumber": 40
+  },
+  {
+    "id": "quran-010-062-27",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "آگاه باشید که دوستان خدا نه ترسی دارند و نه غمگین می‌شوند.",
+    "reference": "یونس، ۱۰:۶۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "surahNumber": 10,
+    "ayahNumber": 62
+  },
+  {
+    "id": "quran-011-088-28",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "و توفیق من جز به یاری الله نیست؛ بر او توکل کردم و به سوی او بازمی‌گردم.",
+    "reference": "هود، ۱۱:۸۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+    "surahNumber": 11,
+    "ayahNumber": 88
+  },
+  {
+    "id": "quran-012-086-29",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "من غم و اندوه خویش را تنها به درگاه الله شکایت می‌برم.",
+    "reference": "یوسف، ۱۲:۸۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ",
+    "surahNumber": 12,
+    "ayahNumber": 86
+  },
+  {
+    "id": "quran-012-090-30",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "بی‌گمان هر کس تقوا پیشه کند و شکیبایی ورزد، الله پاداش نیکوکاران را ضایع نمی‌کند.",
+    "reference": "یوسف، ۱۲:۹۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّهُ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+    "surahNumber": 12,
+    "ayahNumber": 90
+  },
+  {
+    "id": "quran-016-097-31",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "هر کس از مرد یا زن کار شایسته انجام دهد و مؤمن باشد، قطعاً او را با زندگی پاک و خوشایندی حیات می‌بخشیم.",
+    "reference": "نحل، ۱۶:۹۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً",
+    "surahNumber": 16,
+    "ayahNumber": 97
+  },
+  {
+    "id": "quran-016-128-32",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "همانا الله با کسانی است که تقوا پیشه کرده‌اند و کسانی که نیکوکارند.",
+    "reference": "نحل، ۱۶:۱۲۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوا وَّالَّذِينَ هُم مُّحْسِنُونَ",
+    "surahNumber": 16,
+    "ayahNumber": 128
+  },
+  {
+    "id": "quran-017-023-33",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "و پروردگارت فرمان داده که جز او را نپرستید و به پدر و مادر نیکی کنید.",
+    "reference": "اسراء، ۱۷:۲۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا",
+    "surahNumber": 17,
+    "ayahNumber": 23
+  },
+  {
+    "id": "quran-017-082-34",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "و از قرآن آنچه را که برای مؤمنان شفا و رحمت است نازل می‌کنیم.",
+    "reference": "اسراء، ۱۷:۸۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+    "surahNumber": 17,
+    "ayahNumber": 82
+  },
+  {
+    "id": "quran-018-010-35",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "پروردگارا، از جانب خود رحمتی به ما عطا کن و برای ما در کارمان راه رشد و هدایت فراهم ساز.",
+    "reference": "کهف، ۱۸:۱۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+    "surahNumber": 18,
+    "ayahNumber": 10
+  },
+  {
+    "id": "quran-019-096-36",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "کسانی که ایمان آوردند و کارهای شایسته انجام دادند، به زودی خدای رحمان برای آنان محبتی در دل‌ها قرار می‌دهد.",
+    "reference": "مریم، ۱۹:۹۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا",
+    "surahNumber": 19,
+    "ayahNumber": 96
+  },
+  {
+    "id": "quran-020-025-37",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "پروردگارا، سینه‌ام را برایم گشاده گردان و کارم را برایم آسان ساز.",
+    "reference": "طه، ۲۰:۲۵-۲۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+    "surahNumber": 20,
+    "ayahNumber": 25
+  },
+  {
+    "id": "quran-020-046-38",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "نترسید؛ بی‌گمان من با شما دو نفرم، می‌شنوم و می‌بینم.",
+    "reference": "طه، ۲۰:۴۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا تَخَافَا إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ",
+    "surahNumber": 20,
+    "ayahNumber": 46
+  },
+  {
+    "id": "quran-021-083-39",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "پروردگارا، به من رنج و بیماری رسیده است و تو مهربان‌ترین مهربانانی.",
+    "reference": "انبیاء، ۲۱:۸۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+    "surahNumber": 21,
+    "ayahNumber": 83
+  },
+  {
+    "id": "quran-021-087-40",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "معبودی جز تو نیست، تو پاک و منزهی، و من از ستمکاران (بر خویشتن) بودم.",
+    "reference": "انبیاء، ۲۱:۸۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+    "surahNumber": 21,
+    "ayahNumber": 87
+  },
+  {
+    "id": "quran-023-118-41",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "و بگو: پروردگارا، ببخش و رحم کن و تو بهترین رحم‌کنندگانی.",
+    "reference": "مؤمنون، ۲۳:۱۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+    "surahNumber": 23,
+    "ayahNumber": 118
+  },
+  {
+    "id": "quran-024-035-42",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "الله نور آسمان‌ها و زمین است.",
+    "reference": "نور، ۲۴:۳۵",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+    "surahNumber": 24,
+    "ayahNumber": 35
+  },
+  {
+    "id": "quran-025-063-43",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "و بندگان خدای رحمان کسانی هستند که بر روی زمین با فروتنی راه می‌روند و هنگامی که نادانان آنان را مخاطب قرار دهند، سخن مسالمت‌آمیز می‌گویند.",
+    "reference": "فرقان، ۲۵:۶۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا",
+    "surahNumber": 25,
+    "ayahNumber": 63
+  },
+  {
+    "id": "quran-025-074-44",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "پروردگارا، از همسران و فرزندانمان مایه روشنی چشم به ما ببخش و ما را برای پرهیزگاران پیشوا قرار ده.",
+    "reference": "فرقان، ۲۵:۷۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+    "surahNumber": 25,
+    "ayahNumber": 74
+  },
+  {
+    "id": "quran-026-062-45",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "هرگز چنین نیست؛ بی‌گمان پروردگارم با من است و به زودی مرا رهنمون خواهد شد.",
+    "reference": "شعراء، ۲۶:۶۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "كَلَّا إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ",
+    "surahNumber": 26,
+    "ayahNumber": 62
+  },
+  {
+    "id": "quran-026-080-46",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "و هنگامی که بیمار شوم، اوست که مرا شفا می‌دهد.",
+    "reference": "شعراء، ۲۶:۸۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+    "surahNumber": 26,
+    "ayahNumber": 80
+  },
+  {
+    "id": "quran-027-062-47",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "کیست که دعای درمانده را هنگامی که او را می‌خواند اجابت می‌کند و گرفتاری را برطرف می‌سازد؟",
+    "reference": "نمل، ۲۷:۶۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ",
+    "surahNumber": 27,
+    "ayahNumber": 62
+  },
+  {
+    "id": "quran-028-024-48",
+    "type": "quran",
+    "category": "gratitude",
+    "title": "",
+    "text": "پروردگارا، من به هر خیری که به سویم بفرستی نیازمندم.",
+    "reference": "قصص، ۲۸:۲۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+    "surahNumber": 28,
+    "ayahNumber": 24
+  },
+  {
+    "id": "quran-029-069-49",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "و کسانی که در راه ما تلاش و مجاهدت کردند، قطعاً آنان را به راه‌های خویش هدایت می‌کنیم و بی‌گمان الله با نیکوکاران است.",
+    "reference": "عنکبوت، ۲۹:۶۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ",
+    "surahNumber": 29,
+    "ayahNumber": 69
+  },
+  {
+    "id": "quran-031-017-50",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "و بر آنچه به تو می‌رسد شکیبا باش، که این از کارهای استوار و پابرجاست.",
+    "reference": "لقمان، ۳۱:۱۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+    "surahNumber": 31,
+    "ayahNumber": 17
+  },
+  {
+    "id": "quran-033-041-51",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "ای کسانی که ایمان آورده‌اید، الله را بسیار یاد کنید.",
+    "reference": "احزاب، ۳۳:۴۱",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا",
+    "surahNumber": 33,
+    "ayahNumber": 41
+  },
+  {
+    "id": "quran-035-002-52",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "هر رحمتی را که الله برای مردم بگشاید، هیچ بازدارنده‌ای برای آن نیست.",
+    "reference": "فاطر، ۳۵:۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَّا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا",
+    "surahNumber": 35,
+    "ayahNumber": 2
+  },
+  {
+    "id": "quran-039-010-53",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "همانا شکیبایان پاداش خود را بی‌حساب و کامل دریافت می‌کنند.",
+    "reference": "زمر، ۳۹:۱۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+    "surahNumber": 39,
+    "ayahNumber": 10
+  },
+  {
+    "id": "quran-040-044-54",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "و کارم را به الله می‌سپارم؛ چرا که الله به حال بندگان بیناست.",
+    "reference": "غافر، ۴۰:۴۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ",
+    "surahNumber": 40,
+    "ayahNumber": 44
+  },
+  {
+    "id": "quran-040-060-55",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "و پروردگارتان فرمود: مرا بخوانید تا دعای شما را اجابت کنم.",
+    "reference": "غافر، ۴۰:۶۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+    "surahNumber": 40,
+    "ayahNumber": 60
+  },
+  {
+    "id": "quran-041-034-56",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "بدی را با شیوه‌ای که نیکوتر است دفع کن؛ آنگاه کسی که میان تو و او دشمنی است، گویی دوستی صمیمی و گرم خواهد شد.",
+    "reference": "فصلت، ۴۱:۳۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ",
+    "surahNumber": 41,
+    "ayahNumber": 34
+  },
+  {
+    "id": "quran-042-019-57",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "الله نسبت به بندگانش لطف و مهربانی دقیق دارد؛ به هر کس بخواهد روزی می‌دهد و او نیرومند و شکست‌ناپذیر است.",
+    "reference": "شوری، ۴۲:۱۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَن يَشَاءُ وَهُوَ الْقَوِيُّ الْعَزِيزُ",
+    "surahNumber": 42,
+    "ayahNumber": 19
+  },
+  {
+    "id": "quran-042-040-58",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "پس هر کس گذشت کند و اصلاح نماید، پاداش او بر عهده الله است.",
+    "reference": "شوری، ۴۲:۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ",
+    "surahNumber": 42,
+    "ayahNumber": 40
+  },
+  {
+    "id": "quran-048-004-59",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "او کسی است که آرامش را در دل‌های مؤمنان فرو فرستاد تا ایمانی بر ایمانشان بیفزایند.",
+    "reference": "فتح، ۴۸:۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "هُوَ الَّذِي أَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوا إِيمَانًا مَّعَ إِيمَانِهِمْ",
+    "surahNumber": 48,
+    "ayahNumber": 4
+  },
+  {
+    "id": "quran-049-010-60",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "همانا مؤمنان با یکدیگر برادرند؛ پس میان برادرانتان آشتی برقرار کنید و از الله پروا نمایید، باشد که مورد رحمت قرار گیرید.",
+    "reference": "حجرات، ۴۹:۱۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+    "surahNumber": 49,
+    "ayahNumber": 10
+  },
+  {
+    "id": "quran-049-013-61",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "بی‌گمان گرامی‌ترین شما نزد الله با تقواترین شماست.",
+    "reference": "حجرات، ۴۹:۱۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ",
+    "surahNumber": 49,
+    "ayahNumber": 13
+  },
+  {
+    "id": "quran-050-016-62",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "و ما به انسان از رگ گردنش نزدیک‌تریم.",
+    "reference": "ق، ۵۰:۱۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+    "surahNumber": 50,
+    "ayahNumber": 16
+  },
+  {
+    "id": "quran-051-058-63",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "همانا الله خود روزی‌دهنده و صاحب قدرت استوار است.",
+    "reference": "ذاریات، ۵۱:۵۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+    "surahNumber": 51,
+    "ayahNumber": 58
+  },
+  {
+    "id": "quran-052-048-64",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "و در برابر فرمان پروردگارت شکیبا باش، که تو زیر نظر و حمایت مایی.",
+    "reference": "طور، ۵۲:۴۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا",
+    "surahNumber": 52,
+    "ayahNumber": 48
+  },
+  {
+    "id": "quran-053-039-65",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "و اینکه برای انسان جز حاصل تلاش او نیست؛ و بی‌گمان تلاش او به زودی دیده خواهد شد.",
+    "reference": "نجم، ۵۳:۳۹-۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ ۝ وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ",
+    "surahNumber": 53,
+    "ayahNumber": 39
+  },
+  {
+    "id": "quran-055-060-66",
+    "type": "quran",
+    "category": "gratitude",
+    "title": "",
+    "text": "آیا پاداش نیکی جز نیکی است؟",
+    "reference": "الرحمن، ۵۵:۶۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+    "surahNumber": 55,
+    "ayahNumber": 60
+  },
+  {
+    "id": "quran-064-011-67",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "و هر کس به الله ایمان بیاورد، خداوند قلب او را هدایت و آرام می‌سازد.",
+    "reference": "تغابن، ۶۴:۱۱",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ",
+    "surahNumber": 64,
+    "ayahNumber": 11
+  },
+  {
+    "id": "quran-065-002-68",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "و هر کس از الله پروا کند، خداوند برای او راه برون‌رفتی از تنگناها قرار می‌دهد.",
+    "reference": "طلاق، ۶۵:۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+    "surahNumber": 65,
+    "ayahNumber": 2
+  },
+  {
+    "id": "quran-065-007-69",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "به زودی الله پس از هر دشواری، آسانی و گشایشی قرار خواهد داد.",
+    "reference": "طلاق، ۶۵:۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+    "surahNumber": 65,
+    "ayahNumber": 7
+  },
+  {
+    "id": "quran-093-005-70",
+    "type": "quran",
+    "category": "gratitude",
+    "title": "",
+    "text": "و به زودی پروردگارت آن‌قدر به تو عطا خواهد کرد که خشنود شوی.",
+    "reference": "ضحی، ۹۳:۵",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+    "surahNumber": 93,
+    "ayahNumber": 5
+  },
+  {
+    "id": "story-prophet-001",
+    "type": "story",
+    "category": "mercy",
+    "title": "حضرت آدم (ع) و نخستین دعای بازگشت",
+    "text": "هنگامی که حضرت آدم و حوا (ع) از درخت نهی‌شده خوردند، به جای بهانه‌جویی، بلافاصله به درگاه الهی عرضه داشتند: «پروردگارا، ما به خویشتن ستم کردیم و اگر ما را نبخشی از زیانکاران خواهیم بود.» خداوند نیز به پاس این صداقت و فروتنی، توبه آنان را پذیرفت و راه بازگشت را برای همیشه به روی انسان گشود.",
+    "reference": "قصص قرآن — سوره اعراف، آیه ۲۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-002",
+    "type": "story",
+    "category": "patience",
+    "title": "حضرت نوح (ع) و نهصد و پنجاه سال شکیبایی",
+    "text": "حضرت نوح (ع) نهصد و پنجاه سال در میان قوم خود ماند و شب و روز، پنهان و آشکار آنان را به یکتاپرستی و راستی فراخواند. با وجود تمسخر و آزار مستمر، او هرگز امیدش را به هدایت مردم از دست نداد و الگوی جاودانه استقامت در مسیر حق شد.",
+    "reference": "قصص قرآن — سوره عنکبوت، آیه ۱۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-003",
+    "type": "story",
+    "category": "trust",
+    "title": "ساختن کشتی نوح (ع) در دل خشکی",
+    "text": "به فرمان الهی، حضرت نوح (ع) در سرزمینی دور از دریا شروع به ساختن کشتی بزرگی کرد. رهگذران او را مسخره می‌کردند که در خشکی کشتی می‌سازد؛ اما او با توکل کامل به وعده خدا کار را ادامه داد تا روزی که طوفان آغاز شد و همان کشتی وسیله نجات مؤمنان گردید.",
+    "reference": "قصص قرآن — سوره هود، آیه ۳۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-004",
+    "type": "story",
+    "category": "peace",
+    "title": "حضرت ادریس (ع)؛ پیامبر راستی و دانش",
+    "text": "حضرت ادریس (ع) از نخستین کسانی بود که خط و نوشتن را به انسان‌ها آموخت و زندگی خود را وقف صداقت، عبادت و دانش کرد. خداوند در قرآن از او به عنوان «صدّیق» (بسیار راستگو) یاد کرده و مقام او را به جایگاهی بلند و والا ارتقا بخشید.",
+    "reference": "قصص قرآن — سوره مریم، آیات ۵۶-۵۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-005",
+    "type": "story",
+    "category": "trust",
+    "title": "حضرت هود (ع) در برابر غرور قوم عاد",
+    "text": "قوم عاد به قدرت بدنی و کاخ‌های استوار خود مغرور بودند و می‌گفتند: «چه کسی از ما نیرومندتر است؟» حضرت هود (ع) با آرامش و دلسوزی به آنان یادآوری کرد که خداوندی که آنان را آفریده از همه نیرومندتر است و قدرت واقعی در فروتنی و شکرگزاری به درگاه خالق است.",
+    "reference": "قصص قرآن — سوره فصلت، آیه ۱۵",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-006",
+    "type": "story",
+    "category": "kindness",
+    "title": "حضرت صالح (ع) و احترام به حقوق مخلوقات",
+    "text": "هنگامی که خداوند ناقه (شتر) معجزه‌آسا را به عنوان نشانه برای قوم ثمود فرستاد، حضرت صالح (ع) نوبت آب چاه را به عدالت میان مردم و آن حیوان تقسیم کرد و فرمود به او آسیبی نرسانند. این داستان نشان می‌دهد که رعایت عدالت و مهربانی با مخلوقات خدا، آزمون ایمان انسان است.",
+    "reference": "قصص قرآن — سوره شعراء، آیات ۱۵۵-۱۵۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-007",
+    "type": "story",
+    "category": "hope",
+    "title": "جستجوی حقیقت توسط حضرت ابراهیم (ع) در شب پرستاره",
+    "text": "حضرت ابراهیم (ع) برای بیدار کردن خرد قومش، به ستاره و ماه و خورشید اشاره کرد و زمانی که هر یک غروب کردند فرمود: «من چیزهای افول‌کننده و ناپایدار را دوست ندارم؛ من چهره دلم را به سوی ذاتی متوجه ساختم که آسمان‌ها و زمین را پدید آورده است.»",
+    "reference": "قصص قرآن — سوره انعام، آیات ۷۶-۷۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-008",
+    "type": "story",
+    "category": "trust",
+    "title": "گلستان شدن آتش بر حضرت ابراهیم (ع)",
+    "text": "هنگامی که حضرت ابراهیم (ع) را در آتش عظیم افکندند، او در اوج آرامش فرمود: «حَسبُنَا اللَّهُ وَ نِعمَ الوَکیل» (خداوند ما را بس است و چه نیکو کارسازی است). فرمان الهی صادر شد: «ای آتش! بر ابراهیم سرد و سلامت باش» و شعله‌های سوزان به جایگاه امن و آرامش تبدیل گردید.",
+    "reference": "قصص قرآن — سوره انبیاء، آیه ۶۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-009",
+    "type": "story",
+    "category": "kindness",
+    "title": "ادب و مهربانی حضرت ابراهیم (ع) در گفتگو با آزر",
+    "text": "با وجود مخالفت سرسختانه آزر، حضرت ابراهیم (ع) در تمام گفتگوهایش با مهربانانه‌ترین تعبیر («یا أَبَتِ» — ای پدر جان!) با او سخن گفت و حتی زمانی که تهدید به رانده شدن گردید، در پاسخ گفت: «سلام بر تو باد، از پروردگارم برای تو آمرزش خواهم خواست.»",
+    "reference": "قصص قرآن — سوره مریم، آیات ۴۲-۴۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-010",
+    "type": "story",
+    "category": "trust",
+    "title": "توکل هاجر (س) و جوشش چشمه زمزم در مکه",
+    "text": "هنگامی که حضرت ابراهیم (ع) به فرمان الهی همسرش هاجر و کودکش اسماعیل (ع) را در دره خشک مکه گذاشت، هاجر پرسید: «آیا الله به تو چنین فرمانی داده است؟» چون شنید «آری»، با یقین گفت: «پس خداوند هرگز ما را تنها و ضایع نخواهد گذاشت.» به برکت این توکل و سعی او میان صفا و مروه، چشمه زمزم از دل بیابان جوشید.",
+    "reference": "قصص قرآن — سوره ابراهیم، آیه ۳۷ و صحیح بخاری ۳۳۶۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-011",
+    "type": "story",
+    "category": "patience",
+    "title": "تسلیم و شکیبایی حضرت اسماعیل (ع)",
+    "text": "وقتی حضرت ابراهیم (ع) رؤیای آزمون الهی را با فرزند نوجوانش اسماعیل در میان گذاشت، اسماعیل با کمال ادب و آرامش گفت: «ای پدر، آنچه به تو فرمان داده شده انجام ده؛ ان‌شاءالله مرا از شکیبایان خواهی یافت.» اخلاص پدر و پسر سبب شد که آزمون الهی با سربلندی پایان یابد.",
+    "reference": "قصص قرآن — سوره صافات، آیه ۱۰۲",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-012",
+    "type": "story",
+    "category": "gratitude",
+    "title": "بنای کعبه و دعای خالصانه ابراهیم و اسماعیل (ع)",
+    "text": "هنگامی که حضرت ابراهیم و اسماعیل (ع) پایه‌های خانه کعبه را بالا می‌بردند، با وجود انجام چنین کار بزرگی، دچار غرور نشدند بلکه با فروتنی دعا می‌کردند: «رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ» (پروردگارا، این خدمت را از ما بپذیر که تو شنوا و دانایی).",
+    "reference": "قصص قرآن — سوره بقره، آیه ۱۲۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-013",
+    "type": "story",
+    "category": "kindness",
+    "title": "مهمان‌نوازی کریمانه حضرت ابراهیم (ع)",
+    "text": "هنگامی که مهمانان ناشناس بر حضرت ابراهیم (ع) وارد شدند، او به گرمی سلام کرد و بی‌درنگ و بی‌آنکه منت بگذارد، بهترین غذای آماده را برای پذیرایی از آنان حاضر ساخت. احترام و سخاوت در برابر مهمان از سنت‌های برجسته خلیل‌الله است.",
+    "reference": "قصص قرآن — سوره ذاریات، آیات ۲۴-۲۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-014",
+    "type": "story",
+    "category": "hope",
+    "title": "بشارت تولد حضرت اسحاق (ع) در کهنسالی",
+    "text": "فرشتگان الهی در حالی به حضرت ابراهیم و همسرش ساره بشارت تولد حضرت اسحاق و سپس یعقوب (ع) را دادند که هر دو در سنین پیری بودند. زمانی که ساره از این موهبت شگفت‌زده شد، فرشتگان گفتند: «آیا از کار و قدرت الله تعجب می‌کنی؟» برای قدرت الهی هیچ امری محال نیست.",
+    "reference": "قصص قرآن — سوره هود، آیات ۷۱-۷۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-015",
+    "type": "story",
+    "category": "patience",
+    "title": "صبر جمیل حضرت یعقوب (ع) در فراق یوسف",
+    "text": "هنگامی که فرزندان یعقوب (ع) پیراهن خون‌آلود یوسف را آوردند، یعقوب (ع) با وجود اندوه عمیق پدرانه، فرمود: «فَصَبْرٌ جَمِيلٌ وَاللَّهُ الْمُسْتَعَانُ» (اکنون کار من صبری زیبا و بدون ناشکری است و تنها از الله یاری می‌جویم). صبر جمیل، صبری است که با امید به لطف خدا همراه باشد.",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-016",
+    "type": "story",
+    "category": "hope",
+    "title": "حضرت یوسف (ع) از قعر چاه تا اوج عزت",
+    "text": "حضرت یوسف (ع) در کودکی به قعر چاه افکنده شد، به بردگی فروخته شد و سال‌ها در زندان ماند؛ اما در تمام این مراحل پاکدامنی و توکل خود را حفظ کرد تا سرانجام خداوند او را بر خزاین مصر امین و عزیز گردانید. هیچ تاریکی برای کسی که با خداست ابدی نخواهد ماند.",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۵۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-017",
+    "type": "story",
+    "category": "trust",
+    "title": "پاکدامنی حضرت یوسف (ع) در برابر وسوسه گناه",
+    "text": "در لحظه‌ای که تمام درها بسته بود و زمینه گناه فراهم گشته بود، حضرت یوسف (ع) فرمود: «مَعَاذَ اللَّهِ إِنَّهُ رَبِّي أَحْسَنَ مَثْوَايَ» (پناه بر الله! او پروردگار و صاحب نعمت من است که جایگاهم را نیکو داشته است). یاد نعمت‌های خدا بهترین سپر در برابر خطا و لغزش است.",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۲۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-018",
+    "type": "story",
+    "category": "kindness",
+    "title": "احسان و دلسوزی حضرت یوسف (ع) در زندان",
+    "text": "حتی در روزهای سخت زندان، حضرت یوسف (ع) به فکر آرامش و هدایت هم‌بندی‌های خود بود؛ به درد دل آنان گوش می‌سپرد و همه زندانیان گواهی دادند که: «إِنَّا نَرَاكَ مِنَ الْمُحْسِنِينَ» (ما تو را از نیکوکاران می‌بینیم). انسان مؤمن در هر شرایطی منشأ خیر برای اطرافیان است.",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۳۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-019",
+    "type": "story",
+    "category": "mercy",
+    "title": "گذشت بزرگوارانه حضرت یوسف (ع) از برادران",
+    "text": "هنگامی که برادران یوسف در اوج قدرت او شرمسار در برابرش ایستادند، یوسف (ع) نه تنها انتقام نگرفت و آنان را سرزنش نکرد، بلکه فرمود: «لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ» (امروز هیچ ملامتی بر شما نیست؛ خداوند شما را می‌بخشد و او مهربان‌ترین مهربانان است).",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۹۲",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-020",
+    "type": "story",
+    "category": "patience",
+    "title": "شکیبایی و ادب حضرت ایوب (ع) در بیماری طولانی",
+    "text": "حضرت ایوب (ع) سال‌ها به بیماری و از دست دادن مال و فرزندان آزموده شد اما هرگز زبان به شکایت نگشود. هنگامی که دعا کرد، با نهایت ادب عرضه داشت: «پروردگارا، به من رنج رسیده و تو مهربان‌ترین مهربانانی.» خداوند نیز سلامت، خانواده و نعمت‌های او را دوچندان بازگرداند و او را «نِعمَ العَبد» نامید.",
+    "reference": "قصص قرآن — سوره ص، آیات ۴۱-۴۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-021",
+    "type": "story",
+    "category": "trust",
+    "title": "حضرت شعیب (ع)؛ خطیب پیامبران و منادی انصاف در معامله",
+    "text": "حضرت شعیب (ع) قوم مدین را با بیانی شیوا به یکتاپرستی و درستکاری در کسب‌وکار فراخواند و فرمود: «پیمانه و ترازو را به عدالت کامل بدهید و از اموال مردم کم نگذارید.» او نشان داد که عبادت واقعی از صداقت و انصاف در بازار و زندگی روزمره جدا نیست.",
+    "reference": "قصص قرآن — سوره هود، آیات ۸۴-۸۵",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-022",
+    "type": "story",
+    "category": "trust",
+    "title": "گهواره حضرت موسی (ع) بر امواج رود نیل",
+    "text": "خداوند به مادر حضرت موسی (ع) الهام کرد که برای نجات نوزادش از سربازان فرعون، او را در صندوقچه‌ای بگذارد و به امواج نیل بسپارد، و وعده داد: «ما او را به تو بازمی‌گردانیم.» همان امواج، موسی را به کاخ فرعون برد و سرانجام در آغوش مادرش آرام گرفت؛ زیرا وعده خداوند تخلف‌ناپذیر است.",
+    "reference": "قصص قرآن — سوره قصص، آیات ۷-۱۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-023",
+    "type": "story",
+    "category": "kindness",
+    "title": "جوانمردی حضرت موسی (ع) در چاه مدین",
+    "text": "هنگامی که حضرت موسی (ع) خسته و تنها به چاه مدین رسید، دید که دو دختر باوقار گوشه‌ای ایستاده‌اند تا چوپانان بروند. موسی (ع) بی‌چشم‌داشت به جلو رفت، گله آنان را سیراب کرد و سپس در سایه درخت نشست و دعا کرد: «پروردگارا، من به هر خیری که برایم بفرستی نیازمندم.»",
+    "reference": "قصص قرآن — سوره قصص، آیات ۲۳-۲۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-024",
+    "type": "story",
+    "category": "peace",
+    "title": "فرمان سخن گفتن نرم با فرعون به موسی و هارون (ع)",
+    "text": "هنگامی که خداوند حضرت موسی و برادرش هارون (ع) را برای هدایت فرعون فرستاد، به آنان فرمان داد: «فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ» (با او به نرمی سخن بگویید، شاید پند گیرد یا پروا کند). این آیه نشان می‌دهد که دعوت به حق همیشه باید با اخلاق و کلام ملایم همراه باشد.",
+    "reference": "قصص قرآن — سوره طه، آیه ۴۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-025",
+    "type": "story",
+    "category": "hope",
+    "title": "شکافته شدن دریا در لحظه توکل حضرت موسی (ع)",
+    "text": "زمانی که بنی‌اسرائیل میان دریا در پیش رو و سپاه فرعون در پشت سر گرفتار شدند و گفتند «ما قطعاً گرفتار شدیم»، حضرت موسی (ع) با اطمینان فرمود: «هرگز! پروردگارم با من است و مرا راهنمایی خواهد کرد.» در همان لحظه با ضربه عصای او دریا شکافته شد و راه نجات گشوده گردید.",
+    "reference": "قصص قرآن — سوره شعراء، آیات ۶۱-۶۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-026",
+    "type": "story",
+    "category": "patience",
+    "title": "سفر علمی حضرت موسی (ع) و خضر؛ حکمت پشت حوادث",
+    "text": "در همراهی حضرت موسی (ع) با بنده‌ صالح خدا (خضر)، حوادثی رخ داد که ظاهرش ناگوار می‌نمود؛ مانند سوراخ شدن کشتی فقیران که در واقع باعث شد پادشاه ستمگر آن کشتی را غصب نکند. این داستان به ما می‌آموزد که در پسِ بسیاری از حوادث تلخ زندگی، لطف و حکمت پنهان الهی نهفته است.",
+    "reference": "قصص قرآن — سوره کهف، آیات ۶۵-۸۲",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-027",
+    "type": "story",
+    "category": "kindness",
+    "title": "حضرت هارون (ع)؛ پیامبر صلح، فصاحت و وحدت",
+    "text": "حضرت هارون (ع) یاور دلسوز و فصیح حضرت موسی (ع) بود که در تمام دشواری‌های رسالت دوشادوش برادرش ایستاد و همواره کوشید تا میان مردم تفرقه و دشمنی نیفتد. همکاری صمیمانه موسی و هارون (ع) زیباترین الگوی برادری و همیاری در قرآن است.",
+    "reference": "قصص قرآن — سوره طه، آیات ۲۹-۳۲",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-028",
+    "type": "story",
+    "category": "trust",
+    "title": "پیروزی حضرت داوود (ع) با ایمان بر سپاه جالوت",
+    "text": "در میدان نبرد با جالوت ستمگر، مؤمنان با دیدن سپاه انبوه دشمن گفتند: «چه بسیار گروه اندکی که به اذن خدا بر گروه بسیاری پیروز شدند!» در همان میدان، حضرت داوود (ع) با توکل و شجاعت جالوت را شکست داد و خداوند به او حکمت و فرمانروایی عادلانه بخشید.",
+    "reference": "قصص قرآن — سوره بقره، آیات ۲۴۹-۲۵۱",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-029",
+    "type": "story",
+    "category": "gratitude",
+    "title": "تسبیح کوه‌ها و پرندگان همراه با حضرت داوود (ع)",
+    "text": "حضرت داوود (ع) با وجود داشتن پادشاهی بزرگ، با دسترنج خود زندگی می‌کرد و با صدایی دلنشین در صبحگاهان و شامگاهان به تسبیح خداوند می‌پرداخت، به گونه‌ای که کوه‌ها و پرندگان با او هم‌آوا می‌شدند.",
+    "reference": "قصص قرآن — سوره ص، آیات ۱۸-۱۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-030",
+    "type": "story",
+    "category": "peace",
+    "title": "داوری دقیق حضرت داوود و سلیمان (ع) بر پایه عدل و دانش",
+    "text": "هنگامی که کشاورزی و صاحب گله‌ای برای خسارت مزرعه نزد حضرت داوود (ع) آمدند، حضرت سلیمان (ع) راه‌حلی پیشنهاد داد که هم زمین کشاورز آباد شود و هم گله چوپان از دست نرود. خداوند هر دو را به دانش و حکمت ستود تا روشن شود عدالت واقعی همراه با تدبیر و خیرخواهی برای هر دو طرف است.",
+    "reference": "قصص قرآن — سوره انبیاء، آیات ۷۸-۷۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-031",
+    "type": "story",
+    "category": "gratitude",
+    "title": "لبخند و شکرگزاری حضرت سلیمان (ع) با شنیدن سخن مورچه",
+    "text": "هنگامی که سپاه حضرت سلیمان (ع) به وادی مورچگان رسید، مورچه‌ای به یارانش گفت به لانه‌های خود بروید تا لشکر سلیمان ندانسته شما را پایمال نکنند. سلیمان (ع) سخن او را شنید، لبخند زد، مسیر سپاه را تغییر داد تا به مورچگان آسیبی نرسد و دست به دعا برداشت: «پروردگارا، به من توفیق ده تا شکر نعمتت را به جا آورم.»",
+    "reference": "قصص قرآن — سوره نمل، آیات ۱۸-۱۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-032",
+    "type": "story",
+    "category": "gratitude",
+    "title": "نگاه حضرت سلیمان (ع) به نعمت‌ها: «این برای آزمایش شکر من است»",
+    "text": "وقتی تخت ملکه سبا در یک چشم برهم زدن نزد حضرت سلیمان (ع) حاضر شد، او مغرور نگشت بلکه بلافاصله فرمود: «هَٰذَا مِن فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ» (این از فضل پروردگار من است تا مرا بیازماید که آیا شکر می‌گزارم یا ناسپاسی می‌کنم).",
+    "reference": "قصص قرآن — سوره نمل، آیه ۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-033",
+    "type": "story",
+    "category": "hope",
+    "title": "ایمان آوردن ملکه سبا در پرتو حکمت حضرت سلیمان (ع)",
+    "text": "حضرت سلیمان (ع) به جای جنگ و خشونت، با نامه‌ای محترمانه که با «بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ» آغاز می‌شد و با نشان دادن حکمت و توحید، دل ملکه سبا را به سوی حقیقت هدایت کرد تا جایی که او گفت: «همراه با سلیمان در برابر پروردگار جهانیان تسلیم شدم.»",
+    "reference": "قصص قرآن — سوره نمل، آیات ۳۰-۴۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-034",
+    "type": "story",
+    "category": "patience",
+    "title": "حضرت الیاس (ع) و دعوت خستگی‌ناپذیر به توحید",
+    "text": "حضرت الیاس (ع) در میان قومی که به پرستش بت «بعل» روی آورده بودند، با شجاعت و دلسوزی ایستاد و آنان را به پرستش بهترین آفرینندگان و تقوای الهی فراخواند. خداوند یاد و نام نیک او را در میان آیندگان جاودانه ساخت: «سَلَامٌ عَلَىٰ إِلْ يَاسِينَ».",
+    "reference": "قصص قرآن — سوره صافات، آیات ۱۲۳-۱۳۰",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-035",
+    "type": "story",
+    "category": "kindness",
+    "title": "حضرت الیسع (ع) در صف نیکان و برگزیدگان",
+    "text": "حضرت الیسع (ع) پس از حضرت الیاس (ع) راه هدایت، دستگیری از محرومان و شکیبایی را ادامه داد و در قرآن کریم در شمار برگزیدگان نیکوکار («مِنَ الأَخیار») ستایش شده است.",
+    "reference": "قصص قرآن — سوره ص، آیه ۴۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-036",
+    "type": "story",
+    "category": "patience",
+    "title": "حضرت ذوالکفل (ع)؛ وفای به عهد و صبر استوار",
+    "text": "حضرت ذوالکفل (ع) به سبب تعهدپذیری، داوری عادلانه میان مردم و بردباری در برابر سختی‌ها به این نام خوانده شد و خداوند او را در کنار اسماعیل و ادریس در زمره صابران و مشمولان رحمت خاص خود یاد فرمود.",
+    "reference": "قصص قرآن — سوره انبیاء، آیات ۸۵-۸۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-037",
+    "type": "story",
+    "category": "hope",
+    "title": "تسبیح حضرت یونس (ع) در سه تاریکی و نجات معجزه‌آسا",
+    "text": "در تاریکی شب، تاریکی اعماق دریا و تاریکی شکم نهنگ، حضرت یونس (ع) امیدش را از دست نداد و ندا داد: «لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ». خداوند فرمود اگر او از تسبیح‌گویان نبود در شکم ماهی می‌ماند، اما ما او را از آن اندوه نجات دادیم و مؤمنان را این‌گونه نجات می‌دهیم.",
+    "reference": "قصص قرآن — سوره انبیاء، آیات ۸۷-۸۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-038",
+    "type": "story",
+    "category": "mercy",
+    "title": "بازگشت قوم یونس (ع) و برطرف شدن عذاب با توبه دسته‌جمعی",
+    "text": "قوم حضرت یونس (ع) تنها قومی در تاریخ بودند که وقتی نشانه‌های عذاب را دیدند، همگی خالصانه ایمان آوردند و به درگاه خدا تضرع کردند؛ در نتیجه، خداوند عذاب خوارکننده را از آنان برطرف ساخت و بیش از صد هزار نفر را در امنیت و برکت قرار داد.",
+    "reference": "قصص قرآن — سوره یونس، آیه ۹۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-039",
+    "type": "story",
+    "category": "hope",
+    "title": "دعای پنهانی حضرت زکریا (ع) و امید در کهنسالی",
+    "text": "حضرت زکریا (ع) در حالی که استخوان‌هایش سست و موی سرش سپید شده بود، در محراب عبادت با صدایی آرام به پروردگارش عرض کرد: «پروردگارا، من هرگز در دعا کردن به درگاه تو محروم و ناامید برنگشته‌ام.» به دنبال این امید صادقانه، خداوند حضرت یحیی (ع) را به او عطا فرمود.",
+    "reference": "قصص قرآن — سوره مریم، آیات ۳-۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-040",
+    "type": "story",
+    "category": "kindness",
+    "title": "حضرت یحیی (ع)؛ حکمت از کودکی، مهربانی و نیکی به والدین",
+    "text": "خداوند به حضرت یحیی (ع) از همان دوران کودکی حکمت و فهم عطا فرمود و او را سرشار از مهربانی و پاکی، با تقوا و نیکوکار نسبت به پدر و مادرش قرار داد که هرگز سرکش و تندخو نبود.",
+    "reference": "قصص قرآن — سوره مریم، آیات ۱۲-۱۵",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-041",
+    "type": "story",
+    "category": "trust",
+    "title": "پاکدامنی و توکل حضرت مریم (س) در زیر درخت نخل",
+    "text": "در اوج تنهایی و درد تولد حضرت عیسی (ع)، ندای آسمانی به مریم (س) دلداری داد که غمگین مباش؛ خداوند زیر پایت چشمه‌ای روان ساخته است و تنه درخت خشکیده نخل را تکان ده تا رطب تازه برایت فرو ریزد. خداوند همواره تلاش کوچک بنده را با روزی فراوان پاسخ می‌دهد.",
+    "reference": "قصص قرآن — سوره مریم، آیات ۲۴-۲۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-042",
+    "type": "story",
+    "category": "peace",
+    "title": "سخن گفتن حضرت عیسی (ع) در گهواره: «من بنده خدا هستم»",
+    "text": "هنگامی که مردم به حضرت مریم (س) تهمت زدند، او به فرمان خدا سکوت کرد و به نوزاد در گهواره اشاره نمود. حضرت عیسی (ع) در گهواره لب به سخن گشود و فرمود: «إِنِّي عَبْدُ اللَّهِ آتَانِيَ الْكِتَابَ وَجَعَلَنِي نَبِيًّا وَجَعَلَنِي مُبَارَكًا أَيْنَ مَا كُنتُ» (من بنده الله هستم؛ به من کتاب داده و هر کجا باشم مرا مایه برکت قرار داده است).",
+    "reference": "قصص قرآن — سوره مریم، آیات ۳۰-۳۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-043",
+    "type": "story",
+    "category": "mercy",
+    "title": "معجزات شفابخش حضرت عیسی (ع) به اذن الله",
+    "text": "حضرت عیسی (ع) نابینایان مادرزاد و بیماران صعب‌العلاج را شفا می‌داد، اما هر بار با فروتنی کامل تأکید می‌کرد که این کارها تنها «بِإِذْنِ اللَّهِ» (به اذن و اراده خداوند) انجام می‌شود تا نگاه مردم را از اسباب به سوی مسبّب‌الاسباب هدایت کند.",
+    "reference": "قصص قرآن — سوره آل‌عمران، آیه ۴۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-044",
+    "type": "story",
+    "category": "trust",
+    "title": "امانت‌داری پیامبر اکرم حضرت محمد (ص) پیش از بعثت",
+    "text": "سال‌ها پیش از نزول وحی، مردم مکه پیامبر اکرم (ص) را به سبب راستی و امانت‌داری بی‌مانندش «الصادق الامین» می‌نامیدند و هنگام بازسازی کعبه، داوری او برای نصب حجرالاسود با پارچه‌ای که همه قبایل گوشه‌های آن را گرفتند، از جنگ خونین جلوگیری کرد.",
+    "reference": "سیره نبوی و سوره قلم، آیه ۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-045",
+    "type": "story",
+    "category": "hope",
+    "title": "نخستین پیام وحی در غار حرا: «اقْرَأْ بِاسْمِ رَبِّكَ»",
+    "text": "نخستین کلمه‌ای که از آسمان بر قلب پیامبر اکرم (ص) نازل شد، فرمان به خواندن، آگاهی و قلم بود: «بخوان به نام پروردگارت که آفرید؛ آن خدایی که به وسیله قلم آموزش داد و به انسان آنچه را نمی‌دانست آموخت.» اسلام با نور دانش و خواندن به نام خدا آغاز گشت.",
+    "reference": "قصص قرآن — سوره علق، آیات ۱-۵",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-046",
+    "type": "story",
+    "category": "mercy",
+    "title": "دعای رحمت پیامبر اکرم (ص) برای مردم طائف در اوج سختی",
+    "text": "در روز طائف که نابخردان با سنگ پیامبر اکرم (ص) را آزردند، فرشته کوه‌ها اجازه خواست تا آنان را مجازات کند؛ اما پیامبر رحمت (ص) فرمود: «نه! بلکه امید دارم خداوند از نسل آنان کسانی را پدید آورد که الله را به یگانگی بپرستند.»",
+    "reference": "صحیح بخاری، حدیث ۳۲۳۱ و سوره انبیاء ۱۰۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-047",
+    "type": "story",
+    "category": "peace",
+    "title": "آرامش پیامبر (ص) به ابوبکر در غار ثور: «خدا با ماست»",
+    "text": "در شب هجرت، زمانی که تعقیب‌کنندگان تا دهانه غار ثور رسیدند، پیامبر اکرم (ص) با آرامشی ملکوتی به یار همراهش فرمود: «لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا» (اندوهگین مباش که الله با ماست). و خداوند آرامش و نصرت غیبی خود را بر او فرو فرستاد.",
+    "reference": "قصص قرآن — سوره توبه، آیه ۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-048",
+    "type": "story",
+    "category": "peace",
+    "title": "صلح حدیبیه و گشایش بزرگ در سایه دوراندیشی پیامبر (ص)",
+    "text": "پیامبر اکرم (ص) در حدیبیه به جای درگیری نظامی، پیمان صلح را برگزید؛ کاری که در فضای آرامش آن، مردم به دور از تعصب با پیام قرآن آشنا شدند و خداوند آن صلح را در سوره فتح «فَتْحًا مُّبِينًا» (پیروزی آشکار) نامید.",
+    "reference": "قصص قرآن — سوره فتح، آیه ۱",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-049",
+    "type": "story",
+    "category": "mercy",
+    "title": "عفو عمومی پیامبر اکرم (ص) در روز فتح مکه",
+    "text": "در روز فتح مکه، پیامبر اکرم (ص) در برابر همان کسانی که بیست سال او و یارانش را آزار داده بودند ایستاد و همان جمله حضرت یوسف (ع) را تکرار فرمود: «امروز هیچ سرزنشی بر شما نیست؛ بروید که همگی آزادید!» با این گذشت بی‌نظیر، دل‌های مردم یکپارچه به ایمان گرایش یافت.",
+    "reference": "قصص قرآن — سوره نصر، آیات ۱-۳ و سیره نبوی",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-050",
+    "type": "story",
+    "category": "kindness",
+    "title": "خلق عظیم پیامبر خاتم (ص)؛ الگوی جاودانه مهربانی",
+    "text": "خداوند متعال اخلاق پیامبر اکرم (ص) را با عبارت «وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ» ستود؛ پیامبری که به کودکان سلام می‌کرد، به عیادت بیماران می‌رفت، با دست خود کارهای خانه را انجام می‌داد و رحمتی برای همه جهانیان بود.",
+    "reference": "قصص قرآن — سوره قلم آیه ۴ و سوره انبیاء آیه ۱۰۷",
+    "publishedAt": "2026-11-16",
     "active": true
   }
 ]
