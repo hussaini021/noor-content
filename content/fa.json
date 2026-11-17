@@ -5,12 +5,12 @@
     "category": "hope",
     "title": "",
     "text": "پس با سختی آسانی است.",
-    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
     "reference": "شرح، ۹۴:۵",
-    "surahNumber": 94,
-    "ayahNumber": 5,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "surahNumber": 94,
+    "ayahNumber": 5
   },
   {
     "id": "quran-094-006-02",
@@ -18,12 +18,12 @@
     "category": "hope",
     "title": "",
     "text": "بی‌گمان با سختی آسانی است.",
-    "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
     "reference": "شرح، ۹۴:۶",
-    "surahNumber": 94,
-    "ayahNumber": 6,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "surahNumber": 94,
+    "ayahNumber": 6
   },
   {
     "id": "quran-039-053-03",
@@ -31,12 +31,12 @@
     "category": "mercy",
     "title": "",
     "text": "از رحمت الله نومید نشوید.",
-    "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
     "reference": "زمر، ۳۹:۵۳ (بخشی از آیه)",
-    "surahNumber": 39,
-    "ayahNumber": 53,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+    "surahNumber": 39,
+    "ayahNumber": 53
   },
   {
     "id": "quran-013-028-04",
@@ -44,12 +44,12 @@
     "category": "peace",
     "title": "",
     "text": "آگاه باشید که دل‌ها با یاد الله آرام می‌گیرند.",
-    "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
     "reference": "رعد، ۱۳:۲۸ (بخشی از آیه)",
-    "surahNumber": 13,
-    "ayahNumber": 28,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "surahNumber": 13,
+    "ayahNumber": 28
   },
   {
     "id": "quran-002-153-05",
@@ -57,12 +57,12 @@
     "category": "patience",
     "title": "",
     "text": "بی‌گمان الله با شکیبایان است.",
-    "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
     "reference": "بقره، ۲:۱۵۳ (بخشی از آیه)",
-    "surahNumber": 2,
-    "ayahNumber": 153,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "surahNumber": 2,
+    "ayahNumber": 153
   },
   {
     "id": "quran-065-003-06",
@@ -70,12 +70,12 @@
     "category": "trust",
     "title": "",
     "text": "و هرکس بر الله توکل کند، او برایش کافی است.",
-    "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
     "reference": "طلاق، ۶۵:۳ (بخشی از آیه)",
-    "surahNumber": 65,
-    "ayahNumber": 3,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+    "surahNumber": 65,
+    "ayahNumber": 3
   },
   {
     "id": "quran-014-007-07",
@@ -83,12 +83,12 @@
     "category": "gratitude",
     "title": "",
     "text": "اگر سپاسگزاری کنید، حتماً بر شما می‌افزایم.",
-    "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
     "reference": "ابراهیم، ۱۴:۷ (بخشی از آیه)",
-    "surahNumber": 14,
-    "ayahNumber": 7,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+    "surahNumber": 14,
+    "ayahNumber": 7
   },
   {
     "id": "quran-002-083-08",
@@ -96,12 +96,12 @@
     "category": "kindness",
     "title": "",
     "text": "و با مردم به نیکی سخن بگویید.",
-    "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
     "reference": "بقره، ۲:۸۳ (بخشی از آیه)",
-    "surahNumber": 2,
-    "ayahNumber": 83,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+    "surahNumber": 2,
+    "ayahNumber": 83
   },
   {
     "id": "quran-007-156-09",
@@ -109,12 +109,12 @@
     "category": "mercy",
     "title": "",
     "text": "و رحمت من همه‌چیز را فرا گرفته است.",
-    "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
     "reference": "اعراف، ۷:۱۵۶ (بخشی از آیه)",
-    "surahNumber": 7,
-    "ayahNumber": 156,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+    "surahNumber": 7,
+    "ayahNumber": 156
   },
   {
     "id": "quran-002-152-10",
@@ -122,12 +122,12 @@
     "category": "peace",
     "title": "",
     "text": "پس مرا یاد کنید تا شما را یاد کنم.",
-    "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
     "reference": "بقره، ۲:۱۵۲ (بخشی از آیه)",
-    "surahNumber": 2,
-    "ayahNumber": 152,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+    "surahNumber": 2,
+    "ayahNumber": 152
   },
   {
     "id": "quran-012-087-11",
@@ -135,12 +135,12 @@
     "category": "hope",
     "title": "",
     "text": "و از گشایش و رحمت الله ناامید نشوید.",
-    "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
     "reference": "یوسف، ۱۲:۸۷ (بخشی از آیه)",
-    "surahNumber": 12,
-    "ayahNumber": 87,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
+    "surahNumber": 12,
+    "ayahNumber": 87
   },
   {
     "id": "quran-002-155-12",
@@ -148,12 +148,12 @@
     "category": "patience",
     "title": "",
     "text": "و به شکیبایان مژده بده.",
-    "arabic": "وَبَشِّرِ الصَّابِرِينَ",
     "reference": "بقره، ۲:۱۵۵ (بخشی از آیه)",
-    "surahNumber": 2,
-    "ayahNumber": 155,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَبَشِّرِ الصَّابِرِينَ",
+    "surahNumber": 2,
+    "ayahNumber": 155
   },
   {
     "id": "quran-003-173-13",
@@ -161,12 +161,12 @@
     "category": "trust",
     "title": "",
     "text": "الله ما را بس است و چه نیکو کارسازی است.",
-    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
     "reference": "آل عمران، ۳:۱۷۳ (بخشی از آیه)",
-    "surahNumber": 3,
-    "ayahNumber": 173,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "surahNumber": 3,
+    "ayahNumber": 173
   },
   {
     "id": "quran-002-195-14",
@@ -174,12 +174,12 @@
     "category": "kindness",
     "title": "",
     "text": "بی‌گمان الله نیکوکاران را دوست دارد.",
-    "arabic": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
     "reference": "بقره، ۲:۱۹۵ (بخشی از آیه)",
-    "surahNumber": 2,
-    "ayahNumber": 195,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "surahNumber": 2,
+    "ayahNumber": 195
   },
   {
     "id": "quran-002-152-15",
@@ -187,12 +187,12 @@
     "category": "gratitude",
     "title": "",
     "text": "و مرا سپاس گویید و ناسپاسی نکنید.",
-    "arabic": "وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
     "reference": "بقره، ۲:۱۵۲ (بخشی از آیه)",
-    "surahNumber": 2,
-    "ayahNumber": 152,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+    "surahNumber": 2,
+    "ayahNumber": 152
   },
   {
     "id": "quran-057-004-16",
@@ -200,12 +200,12 @@
     "category": "peace",
     "title": "",
     "text": "و او هرجا باشید با شماست.",
-    "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
     "reference": "حدید، ۵۷:۴ (بخشی از آیه)",
-    "surahNumber": 57,
-    "ayahNumber": 4,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
+    "surahNumber": 57,
+    "ayahNumber": 4
   },
   {
     "id": "quran-011-061-17",
@@ -213,12 +213,12 @@
     "category": "hope",
     "title": "",
     "text": "بی‌گمان پروردگارم نزدیک و اجابت‌کننده است.",
-    "arabic": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ",
     "reference": "هود، ۱۱:۶۱ (بخشی از آیه)",
-    "surahNumber": 11,
-    "ayahNumber": 61,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ",
+    "surahNumber": 11,
+    "ayahNumber": 61
   },
   {
     "id": "quran-070-005-18",
@@ -226,12 +226,12 @@
     "category": "patience",
     "title": "",
     "text": "پس صبری نیکو پیشه کن.",
-    "arabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
     "reference": "معارج، ۷۰:۵",
-    "surahNumber": 70,
-    "ayahNumber": 5,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+    "surahNumber": 70,
+    "ayahNumber": 5
   },
   {
     "id": "quran-002-237-19",
@@ -239,12 +239,12 @@
     "category": "kindness",
     "title": "",
     "text": "و نیکی و بزرگواری میان خود را فراموش نکنید.",
-    "arabic": "وَلَا تَنسَوُا الْفَضْلَ بَيْنَكُمْ",
     "reference": "بقره، ۲:۲۳۷ (بخشی از آیه)",
-    "surahNumber": 2,
-    "ayahNumber": 237,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَلَا تَنسَوُا الْفَضْلَ بَيْنَكُمْ",
+    "surahNumber": 2,
+    "ayahNumber": 237
   },
   {
     "id": "quran-094-008-20",
@@ -252,12 +252,12 @@
     "category": "trust",
     "title": "",
     "text": "و تنها به سوی پروردگارت رغبت کن.",
-    "arabic": "وَإِلَىٰ رَبِّكَ فَارْغَب",
     "reference": "شرح، ۹۴:۸",
-    "surahNumber": 94,
-    "ayahNumber": 8,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَإِلَىٰ رَبِّكَ فَارْغَب",
+    "surahNumber": 94,
+    "ayahNumber": 8
   },
   {
     "id": "hadith-001",
@@ -265,10 +265,10 @@
     "category": "kindness",
     "title": "",
     "text": "ارزش اعمال به نیت‌ها بستگی دارد.",
-    "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
     "reference": "صحیح بخاری، حدیث ۱",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ"
   },
   {
     "id": "hadith-002",
@@ -276,10 +276,10 @@
     "category": "kindness",
     "title": "",
     "text": "سخن نیک صدقه است.",
-    "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
     "reference": "صحیح بخاری و صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ"
   },
   {
     "id": "hadith-003",
@@ -287,10 +287,10 @@
     "category": "kindness",
     "title": "",
     "text": "دین خیرخواهی است.",
-    "arabic": "الدِّينُ النَّصِيحَةُ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الدِّينُ النَّصِيحَةُ"
   },
   {
     "id": "hadith-004",
@@ -298,10 +298,10 @@
     "category": "mercy",
     "title": "",
     "text": "کسی که رحم نکند، بر او رحم نمی‌شود.",
-    "arabic": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ",
     "reference": "صحیح بخاری و صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ"
   },
   {
     "id": "hadith-005",
@@ -309,10 +309,10 @@
     "category": "kindness",
     "title": "",
     "text": "خشم مگیر.",
-    "arabic": "لَا تَغْضَبْ",
     "reference": "صحیح بخاری",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا تَغْضَبْ"
   },
   {
     "id": "hadith-006",
@@ -320,10 +320,10 @@
     "category": "kindness",
     "title": "",
     "text": "آسان بگیرید و سخت‌گیری نکنید.",
-    "arabic": "يَسِّرُوا وَلَا تُعَسِّرُوا",
     "reference": "صحیح بخاری و صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "يَسِّرُوا وَلَا تُعَسِّرُوا"
   },
   {
     "id": "hadith-007",
@@ -331,10 +331,10 @@
     "category": "kindness",
     "title": "",
     "text": "مژده دهید و مردم را گریزان نکنید.",
-    "arabic": "بَشِّرُوا وَلَا تُنَفِّرُوا",
     "reference": "صحیح بخاری و صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "بَشِّرُوا وَلَا تُنَفِّرُوا"
   },
   {
     "id": "hadith-008",
@@ -342,10 +342,10 @@
     "category": "kindness",
     "title": "",
     "text": "هرکه ما را فریب دهد از ما نیست.",
-    "arabic": "مَنْ غَشَّنَا فَلَيْسَ مِنَّا",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ غَشَّنَا فَلَيْسَ مِنَّا"
   },
   {
     "id": "hadith-009",
@@ -353,10 +353,10 @@
     "category": "kindness",
     "title": "",
     "text": "حیا شاخه‌ای از ایمان است.",
-    "arabic": "الْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ",
     "reference": "صحیح بخاری و صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ"
   },
   {
     "id": "hadith-010",
@@ -364,10 +364,10 @@
     "category": "gratitude",
     "title": "",
     "text": "پاکیزگی نیمی از ایمان است.",
-    "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ"
   },
   {
     "id": "hadith-011",
@@ -375,10 +375,10 @@
     "category": "gratitude",
     "title": "",
     "text": "الحمدلله میزان را پر می‌کند.",
-    "arabic": "الْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ"
   },
   {
     "id": "hadith-012",
@@ -386,10 +386,10 @@
     "category": "kindness",
     "title": "",
     "text": "لبخندت به روی برادرت برای تو صدقه است.",
-    "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
     "reference": "سنن ترمذی",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ"
   },
   {
     "id": "hadith-013",
@@ -397,10 +397,10 @@
     "category": "kindness",
     "title": "",
     "text": "هرکه به کار نیکی راهنمایی کند، پاداشی مانند انجام‌دهنده آن دارد.",
-    "arabic": "مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ"
   },
   {
     "id": "hadith-014",
@@ -408,10 +408,10 @@
     "category": "patience",
     "title": "",
     "text": "صبر روشنایی است.",
-    "arabic": "الصَّبْرُ ضِيَاءٌ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الصَّبْرُ ضِيَاءٌ"
   },
   {
     "id": "hadith-015",
@@ -419,10 +419,10 @@
     "category": "kindness",
     "title": "",
     "text": "نیکوکاری، خوش‌اخلاقی است.",
-    "arabic": "الْبِرُّ حُسْنُ الْخُلُقِ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْبِرُّ حُسْنُ الْخُلُقِ"
   },
   {
     "id": "hadith-016",
@@ -430,10 +430,10 @@
     "category": "kindness",
     "title": "",
     "text": "سخن‌چین وارد بهشت نمی‌شود.",
-    "arabic": "لَا يَدْخُلُ الْجَنَّةَ نَمَّامٌ",
     "reference": "صحیح بخاری و صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا يَدْخُلُ الْجَنَّةَ نَمَّامٌ"
   },
   {
     "id": "hadith-017",
@@ -441,10 +441,10 @@
     "category": "kindness",
     "title": "",
     "text": "هرکه سکوت کند، نجات می‌یابد.",
-    "arabic": "مَنْ صَمَتَ نَجَا",
     "reference": "سنن ترمذی؛ درجه روایت نیازمند بررسی",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ صَمَتَ نَجَا"
   },
   {
     "id": "hadith-018",
@@ -452,10 +452,10 @@
     "category": "kindness",
     "title": "",
     "text": "مسلمان برادر مسلمان است.",
-    "arabic": "الْمُسْلِمُ أَخُو الْمُسْلِمِ",
     "reference": "صحیح بخاری و صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْمُسْلِمُ أَخُو الْمُسْلِمِ"
   },
   {
     "id": "hadith-019",
@@ -463,10 +463,10 @@
     "category": "kindness",
     "title": "",
     "text": "به یکدیگر حسد نورزید.",
-    "arabic": "لَا تَحَاسَدُوا",
     "reference": "صحیح مسلم (بخشی از حدیث)",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا تَحَاسَدُوا"
   },
   {
     "id": "hadith-020",
@@ -474,10 +474,10 @@
     "category": "mercy",
     "title": "",
     "text": "مهربانان را خدای رحمان مورد رحمت قرار می‌دهد.",
-    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ",
     "reference": "سنن ابوداود و ترمذی",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ"
   },
   {
     "id": "story-original-001",
@@ -579,7 +579,6 @@
     "publishedAt": "2026-10-09",
     "active": true
   },
-  
   {
     "id": "hadith-021",
     "type": "hadith",
@@ -1129,9 +1128,7 @@
     "publishedAt": "2026-11-16",
     "active": true,
     "arabic": "كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ"
-  }
-,
-  
+  },
   {
     "id": "quran-002-286-21",
     "type": "quran",
@@ -1782,7 +1779,6 @@
     "surahNumber": 93,
     "ayahNumber": 5
   },
-  
   {
     "id": "story-prophet-001",
     "type": "story",
@@ -2283,5 +2279,4 @@
     "publishedAt": "2026-11-16",
     "active": true
   }
-
 ]
