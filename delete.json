@@ -1,1 +1,5 @@
-
+{
+  "all": false,
+  "types": [],
+  "ids": ["id_to_delete_1", "id_to_delete_2"]
+}
