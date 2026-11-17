@@ -5,12 +5,12 @@
     "category": "hope",
     "title": "",
     "text": "نو بېشکه له سختۍ سره اساني شته.",
-    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
     "reference": "الشرح، 94:5",
-    "surahNumber": 94,
-    "ayahNumber": 5,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "surahNumber": 94,
+    "ayahNumber": 5
   },
   {
     "id": "quran-094-006-02",
@@ -18,12 +18,12 @@
     "category": "hope",
     "title": "",
     "text": "بېشکه له سختۍ سره اساني شته.",
-    "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
     "reference": "الشرح، 94:6",
-    "surahNumber": 94,
-    "ayahNumber": 6,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "surahNumber": 94,
+    "ayahNumber": 6
   },
   {
     "id": "quran-039-053-03",
@@ -31,12 +31,12 @@
     "category": "mercy",
     "title": "",
     "text": "د الله له رحمته مه ناهیلې کېږئ.",
-    "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
     "reference": "الزمر، 39:53 (د آیت یوه برخه)",
-    "surahNumber": 39,
-    "ayahNumber": 53,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ",
+    "surahNumber": 39,
+    "ayahNumber": 53
   },
   {
     "id": "quran-013-028-04",
@@ -44,12 +44,12 @@
     "category": "peace",
     "title": "",
     "text": "خبر اوسئ چې زړونه د الله په یاد ارامېږي.",
-    "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
     "reference": "الرعد، 13:28 (د آیت یوه برخه)",
-    "surahNumber": 13,
-    "ayahNumber": 28,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "surahNumber": 13,
+    "ayahNumber": 28
   },
   {
     "id": "quran-002-153-05",
@@ -57,12 +57,12 @@
     "category": "patience",
     "title": "",
     "text": "بېشکه الله له صبر کوونکو سره دی.",
-    "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
     "reference": "البقره، 2:153 (د آیت یوه برخه)",
-    "surahNumber": 2,
-    "ayahNumber": 153,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+    "surahNumber": 2,
+    "ayahNumber": 153
   },
   {
     "id": "quran-065-003-06",
@@ -70,12 +70,12 @@
     "category": "trust",
     "title": "",
     "text": "او څوک چې پر الله توکل وکړي، هغه ورته بس دی.",
-    "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
     "reference": "الطلاق، 65:3 (د آیت یوه برخه)",
-    "surahNumber": 65,
-    "ayahNumber": 3,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+    "surahNumber": 65,
+    "ayahNumber": 3
   },
   {
     "id": "quran-014-007-07",
@@ -83,12 +83,12 @@
     "category": "gratitude",
     "title": "",
     "text": "که شکر وباسئ، خامخا به درته نور هم زیات کړم.",
-    "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
     "reference": "ابراهیم، 14:7 (د آیت یوه برخه)",
-    "surahNumber": 14,
-    "ayahNumber": 7,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+    "surahNumber": 14,
+    "ayahNumber": 7
   },
   {
     "id": "quran-002-083-08",
@@ -96,12 +96,12 @@
     "category": "kindness",
     "title": "",
     "text": "او له خلکو سره ښې خبرې وکړئ.",
-    "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
     "reference": "البقره، 2:83 (د آیت یوه برخه)",
-    "surahNumber": 2,
-    "ayahNumber": 83,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+    "surahNumber": 2,
+    "ayahNumber": 83
   },
   {
     "id": "quran-007-156-09",
@@ -109,12 +109,12 @@
     "category": "mercy",
     "title": "",
     "text": "او زما رحمت هر څه رانغاړلي دي.",
-    "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
     "reference": "الاعراف، 7:156 (د آیت یوه برخه)",
-    "surahNumber": 7,
-    "ayahNumber": 156,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+    "surahNumber": 7,
+    "ayahNumber": 156
   },
   {
     "id": "quran-002-152-10",
@@ -122,12 +122,12 @@
     "category": "peace",
     "title": "",
     "text": "نو ما یاد کړئ، زه به تاسو یاد کړم.",
-    "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
     "reference": "البقره، 2:152 (د آیت یوه برخه)",
-    "surahNumber": 2,
-    "ayahNumber": 152,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+    "surahNumber": 2,
+    "ayahNumber": 152
   },
   {
     "id": "quran-012-087-11",
@@ -135,12 +135,12 @@
     "category": "hope",
     "title": "",
     "text": "او د الله له لوري له راحت او خلاصون څخه مه ناهیلې کېږئ.",
-    "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
     "reference": "یوسف، 12:87 (د آیت یوه برخه)",
-    "surahNumber": 12,
-    "ayahNumber": 87,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
+    "surahNumber": 12,
+    "ayahNumber": 87
   },
   {
     "id": "quran-002-155-12",
@@ -148,12 +148,12 @@
     "category": "patience",
     "title": "",
     "text": "او صبر کوونکو ته زېری ورکړه.",
-    "arabic": "وَبَشِّرِ الصَّابِرِينَ",
     "reference": "البقره، 2:155 (د آیت یوه برخه)",
-    "surahNumber": 2,
-    "ayahNumber": 155,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَبَشِّرِ الصَّابِرِينَ",
+    "surahNumber": 2,
+    "ayahNumber": 155
   },
   {
     "id": "quran-003-173-13",
@@ -161,12 +161,12 @@
     "category": "trust",
     "title": "",
     "text": "الله موږ ته بس دی، او هغه غوره کارساز دی.",
-    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
     "reference": "آل عمران، 3:173 (د آیت یوه برخه)",
-    "surahNumber": 3,
-    "ayahNumber": 173,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "surahNumber": 3,
+    "ayahNumber": 173
   },
   {
     "id": "quran-002-195-14",
@@ -174,12 +174,12 @@
     "category": "kindness",
     "title": "",
     "text": "بېشکه الله نېکي کوونکي خوښوي.",
-    "arabic": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
     "reference": "البقره، 2:195 (د آیت یوه برخه)",
-    "surahNumber": 2,
-    "ayahNumber": 195,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+    "surahNumber": 2,
+    "ayahNumber": 195
   },
   {
     "id": "quran-002-152-15",
@@ -187,12 +187,12 @@
     "category": "gratitude",
     "title": "",
     "text": "او زما شکر وباسئ او ناشکري مه کوئ.",
-    "arabic": "وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
     "reference": "البقره، 2:152 (د آیت یوه برخه)",
-    "surahNumber": 2,
-    "ayahNumber": 152,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+    "surahNumber": 2,
+    "ayahNumber": 152
   },
   {
     "id": "quran-057-004-16",
@@ -200,12 +200,12 @@
     "category": "peace",
     "title": "",
     "text": "او هغه له تاسو سره دی، هر چېرې چې یاست.",
-    "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
     "reference": "الحدید، 57:4 (د آیت یوه برخه)",
-    "surahNumber": 57,
-    "ayahNumber": 4,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
+    "surahNumber": 57,
+    "ayahNumber": 4
   },
   {
     "id": "quran-011-061-17",
@@ -213,12 +213,12 @@
     "category": "hope",
     "title": "",
     "text": "بېشکه زما پالونکی نږدې دی او دعا قبلوي.",
-    "arabic": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ",
     "reference": "هود، 11:61 (د آیت یوه برخه)",
-    "surahNumber": 11,
-    "ayahNumber": 61,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ",
+    "surahNumber": 11,
+    "ayahNumber": 61
   },
   {
     "id": "quran-070-005-18",
@@ -226,12 +226,12 @@
     "category": "patience",
     "title": "",
     "text": "نو په ښکلي صبر سره صبر وکړه.",
-    "arabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
     "reference": "المعارج، 70:5",
-    "surahNumber": 70,
-    "ayahNumber": 5,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+    "surahNumber": 70,
+    "ayahNumber": 5
   },
   {
     "id": "quran-002-237-19",
@@ -239,12 +239,12 @@
     "category": "kindness",
     "title": "",
     "text": "او په خپلو منځونو کې احسان او لورېینه مه هېروئ.",
-    "arabic": "وَلَا تَنسَوُا الْفَضْلَ بَيْنَكُمْ",
     "reference": "البقره، 2:237 (د آیت یوه برخه)",
-    "surahNumber": 2,
-    "ayahNumber": 237,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَلَا تَنسَوُا الْفَضْلَ بَيْنَكُمْ",
+    "surahNumber": 2,
+    "ayahNumber": 237
   },
   {
     "id": "quran-094-008-20",
@@ -252,12 +252,12 @@
     "category": "trust",
     "title": "",
     "text": "او یوازې خپل پالونکي ته مخه کړه.",
-    "arabic": "وَإِلَىٰ رَبِّكَ فَارْغَب",
     "reference": "الشرح، 94:8",
-    "surahNumber": 94,
-    "ayahNumber": 8,
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "وَإِلَىٰ رَبِّكَ فَارْغَب",
+    "surahNumber": 94,
+    "ayahNumber": 8
   },
   {
     "id": "hadith-001",
@@ -265,10 +265,10 @@
     "category": "kindness",
     "title": "",
     "text": "د عملونو ارزښت په نیتونو پورې تړلی دی.",
-    "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ",
     "reference": "صحیح بخاري، حدیث ۱",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ"
   },
   {
     "id": "hadith-002",
@@ -276,10 +276,10 @@
     "category": "kindness",
     "title": "",
     "text": "ښه خبره صدقه ده.",
-    "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
     "reference": "صحیح بخاري او صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ"
   },
   {
     "id": "hadith-003",
@@ -287,10 +287,10 @@
     "category": "kindness",
     "title": "",
     "text": "دین خیرخواهي ده.",
-    "arabic": "الدِّينُ النَّصِيحَةُ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الدِّينُ النَّصِيحَةُ"
   },
   {
     "id": "hadith-004",
@@ -298,10 +298,10 @@
     "category": "mercy",
     "title": "",
     "text": "څوک چې رحم نه کوي، پر هغه به رحم ونه شي.",
-    "arabic": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ",
     "reference": "صحیح بخاري او صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ"
   },
   {
     "id": "hadith-005",
@@ -309,10 +309,10 @@
     "category": "kindness",
     "title": "",
     "text": "غوسه مه کوه.",
-    "arabic": "لَا تَغْضَبْ",
     "reference": "صحیح بخاري",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا تَغْضَبْ"
   },
   {
     "id": "hadith-006",
@@ -320,10 +320,10 @@
     "category": "kindness",
     "title": "",
     "text": "اساني وکړئ او سختي مه کوئ.",
-    "arabic": "يَسِّرُوا وَلَا تُعَسِّرُوا",
     "reference": "صحیح بخاري او صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "يَسِّرُوا وَلَا تُعَسِّرُوا"
   },
   {
     "id": "hadith-007",
@@ -331,10 +331,10 @@
     "category": "kindness",
     "title": "",
     "text": "زېری ورکړئ او خلک مه زړه توري کوئ.",
-    "arabic": "بَشِّرُوا وَلَا تُنَفِّرُوا",
     "reference": "صحیح بخاري او صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "بَشِّرُوا وَلَا تُنَفِّرُوا"
   },
   {
     "id": "hadith-008",
@@ -342,10 +342,10 @@
     "category": "kindness",
     "title": "",
     "text": "څوک چې موږ غولوي، له موږ څخه نه دی.",
-    "arabic": "مَنْ غَشَّنَا فَلَيْسَ مِنَّا",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ غَشَّنَا فَلَيْسَ مِنَّا"
   },
   {
     "id": "hadith-009",
@@ -353,10 +353,10 @@
     "category": "kindness",
     "title": "",
     "text": "حیا د ایمان یوه څانګه ده.",
-    "arabic": "الْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ",
     "reference": "صحیح بخاري او صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْحَيَاءُ شُعْبَةٌ مِنَ الْإِيمَانِ"
   },
   {
     "id": "hadith-010",
@@ -364,10 +364,10 @@
     "category": "gratitude",
     "title": "",
     "text": "پاکوالی د ایمان نیمایي دی.",
-    "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ"
   },
   {
     "id": "hadith-011",
@@ -375,10 +375,10 @@
     "category": "gratitude",
     "title": "",
     "text": "الحمد لله د عملونو تله ډکوي.",
-    "arabic": "الْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ"
   },
   {
     "id": "hadith-012",
@@ -386,10 +386,10 @@
     "category": "kindness",
     "title": "",
     "text": "خپل ورور ته ستا موسکا ستا لپاره صدقه ده.",
-    "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
     "reference": "جامع ترمذي",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ"
   },
   {
     "id": "hadith-013",
@@ -397,10 +397,10 @@
     "category": "kindness",
     "title": "",
     "text": "څوک چې د نېک کار لارښوونه وکړي، د هغه د ترسره کوونکي په څېر اجر لري.",
-    "arabic": "مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ دَلَّ عَلَى خَيْرٍ فَلَهُ مِثْلُ أَجْرِ فَاعِلِهِ"
   },
   {
     "id": "hadith-014",
@@ -408,10 +408,10 @@
     "category": "patience",
     "title": "",
     "text": "صبر رڼا ده.",
-    "arabic": "الصَّبْرُ ضِيَاءٌ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الصَّبْرُ ضِيَاءٌ"
   },
   {
     "id": "hadith-015",
@@ -419,10 +419,10 @@
     "category": "kindness",
     "title": "",
     "text": "نېکي ښه اخلاق دي.",
-    "arabic": "الْبِرُّ حُسْنُ الْخُلُقِ",
     "reference": "صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْبِرُّ حُسْنُ الْخُلُقِ"
   },
   {
     "id": "hadith-016",
@@ -430,10 +430,10 @@
     "category": "kindness",
     "title": "",
     "text": "چغلګر به جنت ته داخل نه شي.",
-    "arabic": "لَا يَدْخُلُ الْجَنَّةَ نَمَّامٌ",
     "reference": "صحیح بخاري او صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا يَدْخُلُ الْجَنَّةَ نَمَّامٌ"
   },
   {
     "id": "hadith-017",
@@ -441,10 +441,10 @@
     "category": "kindness",
     "title": "",
     "text": "څوک چې چوپ پاتې شي، نجات مومي.",
-    "arabic": "مَنْ صَمَتَ نَجَا",
     "reference": "جامع ترمذي؛ د روایت درجه باید وڅېړل شي",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "مَنْ صَمَتَ نَجَا"
   },
   {
     "id": "hadith-018",
@@ -452,10 +452,10 @@
     "category": "kindness",
     "title": "",
     "text": "مسلمان د بل مسلمان ورور دی.",
-    "arabic": "الْمُسْلِمُ أَخُو الْمُسْلِمِ",
     "reference": "صحیح بخاري او صحیح مسلم",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الْمُسْلِمُ أَخُو الْمُسْلِمِ"
   },
   {
     "id": "hadith-019",
@@ -463,10 +463,10 @@
     "category": "kindness",
     "title": "",
     "text": "یو له بل سره حسد مه کوئ.",
-    "arabic": "لَا تَحَاسَدُوا",
     "reference": "صحیح مسلم (د حدیث یوه برخه)",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "لَا تَحَاسَدُوا"
   },
   {
     "id": "hadith-020",
@@ -474,10 +474,10 @@
     "category": "mercy",
     "title": "",
     "text": "پر مهربانو د رحمان ذات رحمت کېږي.",
-    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ",
     "reference": "سنن ابو داود او جامع ترمذي",
     "publishedAt": "2026-10-09",
-    "active": true
+    "active": true,
+    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ"
   },
   {
     "id": "story-original-001",
@@ -577,6 +577,1715 @@
     "text": "نانوا د ورځې په پای کې خپل سپین ږیري ګاونډي ته یوه توده ډوډۍ ورکړه. ګاونډي په موسکا وویل: «نن چا زه په یاد وم.» ډوډۍ یوازې خواړه نه وو؛ د پاملرنې نښه وه.",
     "reference": "اصلي لنډه کیسه؛ تاریخي روایت یا حدیث نه دی",
     "publishedAt": "2026-10-09",
+    "active": true
+  },
+  {
+    "type": "hadith",
+    "category": "hope",
+    "title": "",
+    "text": "",
+    "reference": "",
+    "publishedAt": "2026-10-09",
+    "active": true
+  },
+  {
+    "id": "quran-002-286-21",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "الله هېڅوک له خپلې وسې پورته نه مکلفوي.",
+    "reference": "البقره، ۲:۲۸۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+    "surahNumber": 2,
+    "ayahNumber": 286
+  },
+  {
+    "id": "quran-002-186-22",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "او کله چې زما بنده‌ګان له تا څخه زما په اړه وپوښتي، نو زه نږدې یم؛ د بلونکي دعا قبلوم کله چې ما وبولي.",
+    "reference": "البقره، ۲:۱۸۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ",
+    "surahNumber": 2,
+    "ayahNumber": 186
+  },
+  {
+    "id": "quran-003-139-23",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "او مه کمزوري کېږئ او مه خفه کېږئ، او تاسو سرلوړي یاست که مؤمنان وئ.",
+    "reference": "آل عمران، ۳:۱۳۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+    "surahNumber": 3,
+    "ayahNumber": 139
+  },
+  {
+    "id": "quran-003-159-24",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "نو کله چې دې هوډ وکړ، پر الله توکل وکړه؛ بېشکه الله توکل کوونکي خوښوي.",
+    "reference": "آل عمران، ۳:۱۵۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ",
+    "surahNumber": 3,
+    "ayahNumber": 159
+  },
+  {
+    "id": "quran-009-051-25",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "ووایه: موږ ته هېڅکله هغه څه نه رسېږي مګر هغه چې الله زموږ لپاره لیکلي دي؛ هغه زموږ سرپرست دی او مؤمنان دې یوازې پر الله توکل وکړي.",
+    "reference": "التوبه، ۹:۵۱",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا هُوَ مَوْلَانَا وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+    "surahNumber": 9,
+    "ayahNumber": 51
+  },
+  {
+    "id": "quran-009-040-26",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "مه خفه کېږه، بېشکه الله زموږ سره دی.",
+    "reference": "التوبه، ۹:۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+    "surahNumber": 9,
+    "ayahNumber": 40
+  },
+  {
+    "id": "quran-010-062-27",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "پوه شئ چې د الله پر دوستانو نه کومه وېره شته او نه به هغوی خفه کېږي.",
+    "reference": "یونس، ۱۰:۶۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+    "surahNumber": 10,
+    "ayahNumber": 62
+  },
+  {
+    "id": "quran-011-088-28",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "او زما بریا یوازې د الله په مرسته ده؛ پر هغه مې توکل کړی او هغه ته ورګرځم.",
+    "reference": "هود، ۱۱:۸۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+    "surahNumber": 11,
+    "ayahNumber": 88
+  },
+  {
+    "id": "quran-012-086-29",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "زه خپله پرېشاني او غم یوازې الله ته بیانوم.",
+    "reference": "یوسف، ۱۲:۸۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّمَا أَشْكُو بَثِّي وَحُزْنِي إِلَى اللَّهِ",
+    "surahNumber": 12,
+    "ayahNumber": 86
+  },
+  {
+    "id": "quran-012-090-30",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "بېشکه څوک چې تقوا خپله کړي او صبر وکړي، نو الله د نېکانو اجر نه ضایع کوي.",
+    "reference": "یوسف، ۱۲:۹۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّهُ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+    "surahNumber": 12,
+    "ayahNumber": 90
+  },
+  {
+    "id": "quran-016-097-31",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "هر نر یا ښځه چې نېک عمل وکړي او مؤمن وي، نو خامخا به موږ هغه ته پاک او ښکلی ژوند ورپه برخه کړو.",
+    "reference": "النحل، ۱۶:۹۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً",
+    "surahNumber": 16,
+    "ayahNumber": 97
+  },
+  {
+    "id": "quran-016-128-32",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "بېشکه الله له هغو کسانو سره دی چې پرهېزګاري کوي او هغوی چې نېکان دي.",
+    "reference": "النحل، ۱۶:۱۲۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوا وَّالَّذِينَ هُم مُّحْسِنُونَ",
+    "surahNumber": 16,
+    "ayahNumber": 128
+  },
+  {
+    "id": "quran-017-023-33",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "او ستا رب پرېکړه کړې چې له هغه پرته د بل چا عبادت مه کوئ او له مور او پلار سره ښېګڼه کوئ.",
+    "reference": "الاسراء، ۱۷:۲۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوا إِلَّا إِيَّاهُ وَبِالْوَالِدَيْنِ إِحْسَانًا",
+    "surahNumber": 17,
+    "ayahNumber": 23
+  },
+  {
+    "id": "quran-017-082-34",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "او موږ له قرآن څخه هغه څه نازلوو چې د مؤمنانو لپاره شفا او رحمت دی.",
+    "reference": "الاسراء، ۱۷:۸۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ",
+    "surahNumber": 17,
+    "ayahNumber": 82
+  },
+  {
+    "id": "quran-018-010-35",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "ای زموږ ربه! له خپل لوري پر موږ رحمت ولوروه او زموږ په کار کې د سمون او بریا لاره برابره کړه.",
+    "reference": "الکهف، ۱۸:۱۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+    "surahNumber": 18,
+    "ayahNumber": 10
+  },
+  {
+    "id": "quran-019-096-36",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "هغوی چې ایمان یې راوړی او نېک عملونه یې کړي، ژر به رحمان خدای د هغوی لپاره په زړونو کې مینه واچوي.",
+    "reference": "مریم، ۱۹:۹۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَيَجْعَلُ لَهُمُ الرَّحْمَٰنُ وُدًّا",
+    "surahNumber": 19,
+    "ayahNumber": 96
+  },
+  {
+    "id": "quran-020-025-37",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "ای زما ربه! زما سینه راته پراخه کړه او زما کار راته اسانه کړه.",
+    "reference": "طه، ۲۰:۲۵-۲۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+    "surahNumber": 20,
+    "ayahNumber": 25
+  },
+  {
+    "id": "quran-020-046-38",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "مه وېرېږئ؛ بېشکه زه له تاسو دواړو سره یم، اورم او وینم.",
+    "reference": "طه، ۲۰:۴۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا تَخَافَا إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ",
+    "surahNumber": 20,
+    "ayahNumber": 46
+  },
+  {
+    "id": "quran-021-083-39",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "ای ربه! ما ته رنځ او کړاو رسېدلی دی او ته تر ټولو مهربانانو زیات مهربان یې.",
+    "reference": "الانبیاء، ۲۱:۸۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+    "surahNumber": 21,
+    "ayahNumber": 83
+  },
+  {
+    "id": "quran-021-087-40",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "له تا پرته بل معبود نشته، ته پاک یې، بېشکه زه له ظالمانو څخه وم.",
+    "reference": "الانبیاء، ۲۱:۸۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+    "surahNumber": 21,
+    "ayahNumber": 87
+  },
+  {
+    "id": "quran-023-118-41",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "او ووایه: ای زما ربه! بښنه وکړه او رحم وکړه، او ته تر ټولو غوره رحم کوونکی یې.",
+    "reference": "المؤمنون، ۲۳:۱۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+    "surahNumber": 23,
+    "ayahNumber": 118
+  },
+  {
+    "id": "quran-024-035-42",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "الله د اسمانونو او ځمکې نور (رڼا) دی.",
+    "reference": "النور، ۲۴:۳۵",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "اللَّهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+    "surahNumber": 24,
+    "ayahNumber": 35
+  },
+  {
+    "id": "quran-025-063-43",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "او د رحمان بنده‌ګان هغوی دي چې پر ځمکه په عاجزۍ تګ کوي او کله چې ناپوهان له هغوی سره خبرې کوي، د سلامتیا خبره کوي.",
+    "reference": "الفرقان، ۲۵:۶۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا",
+    "surahNumber": 25,
+    "ayahNumber": 63
+  },
+  {
+    "id": "quran-025-074-44",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "ای زموږ ربه! موږ ته زموږ له مېرمنو او اولادونو څخه د سترګو یخوالی راکړه او موږ د متقیانو لپاره لارښوونکي وګرځوه.",
+    "reference": "الفرقان، ۲۵:۷۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+    "surahNumber": 25,
+    "ayahNumber": 74
+  },
+  {
+    "id": "quran-026-062-45",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "هېڅکله داسې نه ده؛ بېشکه زما رب له ما سره دی او ژر به ما ته لاره وښيي.",
+    "reference": "الشعراء، ۲۶:۶۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "كَلَّا إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ",
+    "surahNumber": 26,
+    "ayahNumber": 62
+  },
+  {
+    "id": "quran-026-080-46",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "او کله چې ناروغ شم، نو همغه ما ته شفا راکوي.",
+    "reference": "الشعراء، ۲۶:۸۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+    "surahNumber": 26,
+    "ayahNumber": 80
+  },
+  {
+    "id": "quran-027-062-47",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "څوک دی چې د مضطر (بې‌وسه) دعا قبلوي کله چې هغه وبولي او کړاو لرې کوي؟",
+    "reference": "النمل، ۲۷:۶۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَمَّن يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ السُّوءَ",
+    "surahNumber": 27,
+    "ayahNumber": 62
+  },
+  {
+    "id": "quran-028-024-48",
+    "type": "quran",
+    "category": "gratitude",
+    "title": "",
+    "text": "ای زما ربه! زه هر هغه خیر ته چې ته یې ما ته رالېږې اړمن یم.",
+    "reference": "القصص، ۲۸:۲۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+    "surahNumber": 28,
+    "ayahNumber": 24
+  },
+  {
+    "id": "quran-029-069-49",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "او هغوی چې زموږ په لاره کې هڅه وکړه، خامخا به هغوی ته خپلې لارې وروښیو او بېشکه الله له نېکانو سره دی.",
+    "reference": "العنکبوت، ۲۹:۶۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ",
+    "surahNumber": 29,
+    "ayahNumber": 69
+  },
+  {
+    "id": "quran-031-017-50",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "او پر هغه څه چې دررسېږي صبر وکړه؛ بېشکه دا له کلکو او مهمو کارونو څخه دی.",
+    "reference": "لقمان، ۳۱:۱۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+    "surahNumber": 31,
+    "ayahNumber": 17
+  },
+  {
+    "id": "quran-033-041-51",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "ای هغو کسانو چې ایمان مو راوړی دی، الله ډېر یاد کړئ.",
+    "reference": "الاحزاب، ۳۳:۴۱",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا",
+    "surahNumber": 33,
+    "ayahNumber": 41
+  },
+  {
+    "id": "quran-035-002-52",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "الله چې د خلکو لپاره د رحمت کومه دروازه پرانیزي، نو هېڅوک یې مخه نه‌شي نیولی.",
+    "reference": "فاطر، ۳۵:۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَّا يَفْتَحِ اللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا",
+    "surahNumber": 35,
+    "ayahNumber": 2
+  },
+  {
+    "id": "quran-039-010-53",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "بېشکه صبر کوونکو ته د هغوی اجر بې‌حسابه ورکول کېږي.",
+    "reference": "الزمر، ۳۹:۱۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+    "surahNumber": 39,
+    "ayahNumber": 10
+  },
+  {
+    "id": "quran-040-044-54",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "او زه خپل کار الله ته سپارم؛ بېشکه الله پر بنده‌ګانو لیدونکی دی.",
+    "reference": "غافر، ۴۰:۴۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَأُفَوِّضُ أَمْرِي إِلَى اللَّهِ إِنَّ اللَّهَ بَصِيرٌ بِالْعِبَادِ",
+    "surahNumber": 40,
+    "ayahNumber": 44
+  },
+  {
+    "id": "quran-040-060-55",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "او ستاسو رب وفرمایل: ما وبولئ، زه به ستاسو دعا قبوله کړم.",
+    "reference": "غافر، ۴۰:۶۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+    "surahNumber": 40,
+    "ayahNumber": 60
+  },
+  {
+    "id": "quran-041-034-56",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "بدي په هغې لارې دفع کړه چې تر ټولو غوره وي؛ نو هغه څوک چې ستا او د هغه ترمنځ دښمني وه، داسې به شي لکه نږدې او مهربان دوست.",
+    "reference": "فصلت، ۴۱:۳۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ",
+    "surahNumber": 41,
+    "ayahNumber": 34
+  },
+  {
+    "id": "quran-042-019-57",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "الله پر خپلو بنده‌ګانو ډېر مهربان دی؛ چا ته چې وغواړي روزي ورکوي او هغه ځواکمن او برلاسی دی.",
+    "reference": "الشوری، ۴۲:۱۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "اللَّهُ لَطِيفٌ بِعِبَادِهِ يَرْزُقُ مَن يَشَاءُ وَهُوَ الْقَوِيُّ الْعَزِيزُ",
+    "surahNumber": 42,
+    "ayahNumber": 19
+  },
+  {
+    "id": "quran-042-040-58",
+    "type": "quran",
+    "category": "mercy",
+    "title": "",
+    "text": "نو څوک چې بښنه وکړي او سوله او اصلاح راولي، د هغه اجر پر الله دی.",
+    "reference": "الشوری، ۴۲:۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ",
+    "surahNumber": 42,
+    "ayahNumber": 40
+  },
+  {
+    "id": "quran-048-004-59",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "هغه هماغه ذات دی چې د مؤمنانو په زړونو کې یې سکون او ارامتیا نازله کړه ترڅو له خپل ایمان سره نور ایمان زیات کړي.",
+    "reference": "الفتح، ۴۸:۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "هُوَ الَّذِي أَنزَلَ السَّكِينَةَ فِي قُلُوبِ الْمُؤْمِنِينَ لِيَزْدَادُوا إِيمَانًا مَّعَ إِيمَانِهِمْ",
+    "surahNumber": 48,
+    "ayahNumber": 4
+  },
+  {
+    "id": "quran-049-010-60",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "بېشکه مؤمنان سره وروڼه دي؛ نو د خپلو وروڼو ترمنځ سوله وکړئ او له الله ووېرېږئ، ښایي پر تاسو رحم وشي.",
+    "reference": "الحجرات، ۴۹:۱۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+    "surahNumber": 49,
+    "ayahNumber": 10
+  },
+  {
+    "id": "quran-049-013-61",
+    "type": "quran",
+    "category": "kindness",
+    "title": "",
+    "text": "بېشکه د الله په وړاندې ستاسو تر ټولو عزتمن، ستاسو تر ټولو پرهېزګار دی.",
+    "reference": "الحجرات، ۴۹:۱۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ",
+    "surahNumber": 49,
+    "ayahNumber": 13
+  },
+  {
+    "id": "quran-050-016-62",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "او موږ هغه ته د غاړې له رګ څخه هم نږدې یو.",
+    "reference": "ق، ۵۰:۱۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+    "surahNumber": 50,
+    "ayahNumber": 16
+  },
+  {
+    "id": "quran-051-058-63",
+    "type": "quran",
+    "category": "trust",
+    "title": "",
+    "text": "بېشکه الله پخپله روزي ورکوونکی او د کلک ځواک خاوند دی.",
+    "reference": "الذاریات، ۵۱:۵۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+    "surahNumber": 51,
+    "ayahNumber": 58
+  },
+  {
+    "id": "quran-052-048-64",
+    "type": "quran",
+    "category": "patience",
+    "title": "",
+    "text": "او د خپل رب حکم ته صبر وکړه، ځکه ته زموږ تر نظر او ساتنې لاندې یې.",
+    "reference": "الطور، ۵۲:۴۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا",
+    "surahNumber": 52,
+    "ayahNumber": 48
+  },
+  {
+    "id": "quran-053-039-65",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "او دا چې د انسان لپاره یوازې د هغه د هڅې پایله ده؛ او بېشکه د هغه هڅه به ژر ولیدل شي.",
+    "reference": "النجم، ۵۳:۳۹-۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ ۝ وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ",
+    "surahNumber": 53,
+    "ayahNumber": 39
+  },
+  {
+    "id": "quran-055-060-66",
+    "type": "quran",
+    "category": "gratitude",
+    "title": "",
+    "text": "آیا د نېکۍ بدله له نېکۍ پرته بل څه ده؟",
+    "reference": "الرحمن، ۵۵:۶۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+    "surahNumber": 55,
+    "ayahNumber": 60
+  },
+  {
+    "id": "quran-064-011-67",
+    "type": "quran",
+    "category": "peace",
+    "title": "",
+    "text": "او څوک چې پر الله ایمان راوړي، الله د هغه زړه ته لارښوونه او سکون ورکوي.",
+    "reference": "التغابن، ۶۴:۱۱",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ",
+    "surahNumber": 64,
+    "ayahNumber": 11
+  },
+  {
+    "id": "quran-065-002-68",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "او څوک چې له الله ووېرېږي (تقوا وکړي)، الله به هغه ته د خلاصون لاره پیدا کړي.",
+    "reference": "الطلاق، ۶۵:۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+    "surahNumber": 65,
+    "ayahNumber": 2
+  },
+  {
+    "id": "quran-065-007-69",
+    "type": "quran",
+    "category": "hope",
+    "title": "",
+    "text": "ژر به الله له سختۍ وروسته اساني او پراخي راولي.",
+    "reference": "الطلاق، ۶۵:۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "سَيَجْعَلُ اللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+    "surahNumber": 65,
+    "ayahNumber": 7
+  },
+  {
+    "id": "quran-093-005-70",
+    "type": "quran",
+    "category": "gratitude",
+    "title": "",
+    "text": "او ژر به ستا رب تا ته دومره درکړه وکړي چې ته به خوښ او راضي شې.",
+    "reference": "الضحی، ۹۳:۵",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+    "surahNumber": 93,
+    "ayahNumber": 5
+  },
+  {
+    "id": "hadith-021",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "تر ټولو غوره انسان هغه دی چې خلکو ته یې ډېره ګټه ورسېږي.",
+    "reference": "المعجم الاوسط طبرانی، حدیث ۵۷۸۷ (حسن)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ"
+  },
+  {
+    "id": "hadith-022",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "پر مهربانانو رحمان خدای رحم کوي؛ پر هغو کسانو رحم وکړئ چې پر ځمکه دي ترڅو هغه ذات پر تاسو رحم وکړي چې په اسمان کې دی.",
+    "reference": "سنن ترمذی، حدیث ۱۹۲۴ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ، ارْحَمُوا مَنْ فِي الأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ"
+  },
+  {
+    "id": "hadith-023",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "ریښتینی مسلمان هغه دی چې نور مسلمانان د هغه له ژبې او لاس څخه په امن کې وي.",
+    "reference": "صحیح بخاری، حدیث ۱۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ"
+  },
+  {
+    "id": "hadith-024",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "په تاسو کې هېڅوک بشپړ ایمان نه‌لري تر هغو چې د خپل ورور لپاره هم هغه څه خوښ کړي چې د خپل ځان لپاره یې خوښوي.",
+    "reference": "صحیح بخاری، حدیث ۱۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ"
+  },
+  {
+    "id": "hadith-025",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "پهلوان هغه نه دی چې خلک پر ځمکه ووهي، بلکې ریښتینی پهلوان هغه دی چې د غوسې پر مهال خپل ځان کابو کړي.",
+    "reference": "صحیح بخاری، حدیث ۶۱۱۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ"
+  },
+  {
+    "id": "hadith-026",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "ښه او خوږه خبره صدقه ده.",
+    "reference": "صحیح بخاری، حدیث ۲۹۸۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ"
+  },
+  {
+    "id": "hadith-027",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "څوک چې د خلکو مننه ونه کړي، د الله شکر یې نه دی ادا کړی.",
+    "reference": "سنن ترمذی، حدیث ۱۹۵۴ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ لَا يَشْكُرُ النَّاسَ لَا يَشْكُرُ اللَّهَ"
+  },
+  {
+    "id": "hadith-028",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "اساني وکړئ او سختي مه کوئ؛ زېری ورکړئ او خلک مه توروئ.",
+    "reference": "صحیح بخاری، حدیث ۶۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا"
+  },
+  {
+    "id": "hadith-029",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "بېشکه الله ستاسو څېرو او مالونو ته نه ګوري، بلکې ستاسو زړونو او عملونو ته ګوري.",
+    "reference": "صحیح مسلم، حدیث ۲۵۶۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ اللَّهَ لَا يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ"
+  },
+  {
+    "id": "hadith-030",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "د مؤمن کار د حیرانتیا وړ دی، د هغه ټول کارونه خیر دي؛ که خوښي ورته ورسېږي شکر باسي او که سختي ورته ورسېږي صبر کوي.",
+    "reference": "صحیح مسلم، حدیث ۲۹۹۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "عَجَبًا لِأَمْرِ الْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ"
+  },
+  {
+    "id": "hadith-031",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "هر چېرته چې وې له الله ووېرېږه، او له بدۍ وروسته نېکي وکړه چې هغه له منځه یوسي، او له خلکو سره په ښو اخلاقو چلند وکړه.",
+    "reference": "سنن ترمذی، حدیث ۱۹۸۷ (حسن صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ، وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا، وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ"
+  },
+  {
+    "id": "hadith-032",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "څوک چې رحم نه کوي، پر هغه به هم رحم ونه‌شي.",
+    "reference": "صحیح بخاری، حدیث ۵۹۹۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ"
+  },
+  {
+    "id": "hadith-033",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "د الله په وړاندې تر ټولو غوره عمل هغه دی چې دوامداره وي، که څه هم لږ وي.",
+    "reference": "صحیح بخاری، حدیث ۶۴۶۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ"
+  },
+  {
+    "id": "hadith-034",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "د الله حدود وساته، هغه به تا وساتي؛ الله یاد ساته، هغه به خپلې مخې ته ومومې.",
+    "reference": "سنن ترمذی، حدیث ۲۵۱۶ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "احْفَظِ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ"
+  },
+  {
+    "id": "hadith-035",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "د یو انسان د اسلام له ښکلا څخه دا ده چې هغه کارونه پرېږدي چې په ده پورې اړه نه‌لري.",
+    "reference": "سنن ترمذی، حدیث ۲۳۱۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ"
+  },
+  {
+    "id": "hadith-036",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "څوک چې پر الله او د اخرت پر ورځ ایمان لري، نو یا دې د خیر خبره وکړي او یا دې چوپ پاتې شي.",
+    "reference": "صحیح بخاری، حدیث ۶۰۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ"
+  },
+  {
+    "id": "hadith-037",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "او الله تر هغو د بنده په مرسته کې وي، څو پورې چې بنده د خپل ورور په مرسته کې وي.",
+    "reference": "صحیح مسلم، حدیث ۲۶۹۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَاللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ"
+  },
+  {
+    "id": "hadith-038",
+    "type": "hadith",
+    "category": "hope",
+    "title": "",
+    "text": "څوک چې د علم د زده‌کړې په لاره ولاړ شي، الله به د هغه لپاره جنت ته لاره اسانه کړي.",
+    "reference": "صحیح مسلم، حدیث ۲۶۹۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ"
+  },
+  {
+    "id": "hadith-039",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "تر خپل ځان کښته کسانو ته وګورئ او تر ځان پورته کسانو ته مه ګورئ؛ دا کار د دې لامل کېږي چې د الله نعمت کم ونه ګڼئ.",
+    "reference": "صحیح مسلم، حدیث ۲۹۶۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "انْظُرُوا إِلَى مَنْ أَسْفَلَ مِنْكُمْ، وَلَا تَنْظُرُوا إِلَى مَنْ هُوَ فَوْقَكُمْ، فَهُوَ أَجْدَرُ أَنْ لَا تَزْدَرُوا نِعْمَةَ اللَّهِ"
+  },
+  {
+    "id": "hadith-040",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "له یو بل سره حسد مه کوئ، کینه مه کوئ، یو بل ته شا مه اړوئ، او ای د الله بنده‌ګانو سره وروڼه شئ.",
+    "reference": "صحیح مسلم، حدیث ۲۵۶۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَا تَحَاسَدُوا، وَلَا تَبَاغَضُوا، وَلَا تَدَابَرُوا، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا"
+  },
+  {
+    "id": "hadith-041",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "نرمي او مهرباني په هېڅ شي کې نه وي مګر هغه ښکلی کوي، او له هېڅ شي نه لرې کېږي مګر هغه بدرنګه کوي.",
+    "reference": "صحیح مسلم، حدیث ۲۵۹۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ"
+  },
+  {
+    "id": "hadith-042",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "که تاسو پر الله داسې توکل وکړئ لکه څنګه چې د توکل حق دی، نو د مرغانو په څېر به روزي درکړل شي چې سهار تش نس ځي او ماښام ماړه راګرځي.",
+    "reference": "سنن ترمذی، حدیث ۲۳۴۴ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَوْ أَنَّكُمْ كُنْتُمْ تَوَكَّلُونَ عَلَى اللَّهِ حَقَّ تَوَكُّلِهِ لَرُزِقْتُمْ كَمَا يُرْزَقُ الطَّيْرُ"
+  },
+  {
+    "id": "hadith-043",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "هېچا ته له صبر څخه غوره او پراخه ډالۍ نه ده ورکړل شوې.",
+    "reference": "صحیح بخاری، حدیث ۱۴۶۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "وَمَا أُعْطِيَ أَحَدٌ عَطَاءً خَيْرًا وَأَوْسَعَ مِنَ الصَّبْرِ"
+  },
+  {
+    "id": "hadith-044",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "هېڅ صدقه مال نه کموي، او الله د بښنې په بدل کې بنده ته یوازې عزت زیاتوي.",
+    "reference": "صحیح مسلم، حدیث ۲۵۸۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ، وَمَا زَادَ اللَّهُ عَبْدًا بِعَفْوٍ إِلَّا عِزًّا"
+  },
+  {
+    "id": "hadith-045",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "په مؤمنانو کې د ایمان له پلوه تر ټولو بشپړ کس هغه دی چې اخلاق یې تر ټولو ښه وي.",
+    "reference": "سنن ترمذی، حدیث ۱۱۶۲ (حسن صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا"
+  },
+  {
+    "id": "hadith-046",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "دعا کول پخپله عبادت دی.",
+    "reference": "سنن ترمذی، حدیث ۳۳۷۲ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الدُّعَاءُ هُوَ الْعِبَادَةُ"
+  },
+  {
+    "id": "hadith-047",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "پاکوالی نیم ایمان دی او «الحمد لله» ویل د اعمالو تله ډکوي.",
+    "reference": "صحیح مسلم، حدیث ۲۲۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ، وَالْحَمْدُ لِلَّهِ تَمْلَأُ الْمِيزَانَ"
+  },
+  {
+    "id": "hadith-048",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "د خلکو له لارې څخه د ازار رسوونکي شي لرې کول صدقه ده.",
+    "reference": "صحیح بخاری، حدیث ۲۹۸۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِزَالَةُ الْأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ"
+  },
+  {
+    "id": "hadith-049",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "له درېیو ناوړه خویونو ځان ساتل: په خبرو کې دروغ، په ژمنه کې ماتون، او په امانت کې خیانت.",
+    "reference": "صحیح بخاری، حدیث ۳۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "آيَةُ الْمُنَافِقِ ثَلَاثٌ: إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ"
+  },
+  {
+    "id": "hadith-050",
+    "type": "hadith",
+    "category": "hope",
+    "title": "",
+    "text": "الله تعالی فرمایي: زه د خپل بنده له ګومان سره سم یم او کله چې ما یاد کړي زه له هغه سره یم.",
+    "reference": "صحیح بخاری، حدیث ۷۴۰۵",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "يَقُولُ اللَّهُ تَعَالَى: أَنَا عِنْدَ ظَنِّ عَبْدِي بِي، وَأَنَا مَعَهُ إِذَا ذَكَرَنِي"
+  },
+  {
+    "id": "hadith-051",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "څوک چې پر الله او د اخرت پر ورځ ایمان لري، نو د خپل مېلمه عزت او پالنه دې وکړي.",
+    "reference": "صحیح بخاری، حدیث ۶۰۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ ضَيْفَهُ"
+  },
+  {
+    "id": "hadith-052",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "څوک چې پر الله او د اخرت پر ورځ ایمان لري، خپل ګاونډي ته دې ازار نه رسوي.",
+    "reference": "صحیح بخاری، حدیث ۶۰۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ فَلَا يُؤْذِ جَارَهُ"
+  },
+  {
+    "id": "hadith-053",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "له هر ژوندي موجود سره په نېکۍ او اوبو ورکولو کې اجر او ثواب دی.",
+    "reference": "صحیح بخاری، حدیث ۲۳۶۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "فِي كُلِّ كَبِدٍ رَطْبَةٍ أَجْرٌ"
+  },
+  {
+    "id": "hadith-054",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "په خپلو منځونو کې سلام اچول عام کړئ ترڅو مو مینه زیاته شي.",
+    "reference": "صحیح مسلم، حدیث ۵۴",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَفْشُوا السَّلَامَ بَيْنَكُمْ"
+  },
+  {
+    "id": "hadith-055",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "مسلمان ته هېڅ ستړیا، ناروغي، اندېښنه او غم نه رسېږي مګر دا چې الله د هغې په بدل کې د هغه ګناهونه بښي.",
+    "reference": "صحیح بخاری، حدیث ۵۶۴۱",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلَا وَصَبٍ وَلَا هَمٍّ وَلَا حُزْنٍ إِلَّا كَفَّرَ اللَّهُ بِهِ مِنْ خَطَايَاهُ"
+  },
+  {
+    "id": "hadith-056",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "دوه نعمتونه دي چې ډېر خلک یې قدر نه پېژني: روغتیا او وزګارتیا (فراغت).",
+    "reference": "صحیح بخاری، حدیث ۶۴۱۲",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ: الصِّحَّةُ وَالْفَرَاغُ"
+  },
+  {
+    "id": "hadith-057",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "ریښتیا وایئ؛ ځکه ریښتینولي نېکۍ ته لارښوونه کوي او نېکي جنت ته رسوي.",
+    "reference": "صحیح مسلم، حدیث ۲۶۰۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "عَلَيْكُمْ بِالصِّدْقِ، فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ"
+  },
+  {
+    "id": "hadith-058",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "هغه څوک چې د کونډو او بې‌وزلو د مرستې لپاره هڅه کوي، د الله په لاره کې د مجاهد په څېر اجر لري.",
+    "reference": "صحیح بخاری، حدیث ۵۳۵۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "السَّاعِي عَلَى الْأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ فِي سَبِيلِ اللَّهِ"
+  },
+  {
+    "id": "hadith-059",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "شتمني د مال په ډېروالي نه ده، بلکې ریښتینې شتمني د زړه مړښت او قناعت دی.",
+    "reference": "صحیح بخاری، حدیث ۶۴۴۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "لَيْسَ الْغِنَى عَنْ كَثْرَةِ الْعَرَضِ، وَلَكِنَّ الْغِنَى غِنَى النَّفْسِ"
+  },
+  {
+    "id": "hadith-060",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "څوک چې د یو مسلمان عیب پټ کړي، الله به په دنیا او اخرت کې د هغه عیب پټ کړي.",
+    "reference": "صحیح مسلم، حدیث ۲۶۹۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ"
+  },
+  {
+    "id": "hadith-061",
+    "type": "hadith",
+    "category": "hope",
+    "title": "",
+    "text": "هغو کسانو ته چې په تیارو کې جوماتونو ته ځي، د قیامت په ورځ د بشپړې رڼا زېری ورکړه.",
+    "reference": "سنن ابوداوود، حدیث ۵۶۱ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "بَشِّرِ الْمَشَّائِينَ فِي الظُّلَمِ إِلَى الْمَسَاجِدِ بِالنُّورِ التَّامِّ يَوْمَ الْقِيَامَةِ"
+  },
+  {
+    "id": "hadith-062",
+    "type": "hadith",
+    "category": "gratitude",
+    "title": "",
+    "text": "په تاسو کې چې څوک سهار کړي په داسې حال کې چې په خپل کور کې خوندي وي، بدن یې روغ وي او د یوې ورځې خواړه ولري، نو لکه ټوله نړۍ چې ورکړل شوې وي.",
+    "reference": "سنن ترمذی، حدیث ۲۳۴۶ (حسن)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَنْ أَصْبَحَ مِنْكُمْ آمِنًا فِي سِرْبِهِ، مُعَافًى فِي جَسَدِهِ، عِنْدَهُ قُوتُ يَوْمِهِ، فَكَأَنَّمَا حِيزَتْ لَهُ الدُّنْيَا"
+  },
+  {
+    "id": "hadith-063",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "بښونکی او ورکوونکی لاس تر اخیستونکي لاس غوره دی.",
+    "reference": "صحیح بخاری، حدیث ۱۴۲۹",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى"
+  },
+  {
+    "id": "hadith-064",
+    "type": "hadith",
+    "category": "patience",
+    "title": "",
+    "text": "ریښتینی صبر د مصیبت د رارسېدو په لومړۍ شېبه کې زغم دی.",
+    "reference": "صحیح بخاری، حدیث ۱۲۸۳",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "إِنَّمَا الصَّبْرُ عِنْدَ الصَّدْمَةِ الْأُولَى"
+  },
+  {
+    "id": "hadith-065",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "د هغه چا مثال چې خپل رب یادوي او هغه چې نه یې یادوي، د ژوندي او مړي په څېر دی.",
+    "reference": "صحیح بخاری، حدیث ۶۴۰۷",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَثَلُ الَّذِي يَذْكُرُ رَبَّهُ وَالَّذِي لَا يَذْكُرُ رَبَّهُ مَثَلُ الْحَيِّ وَالْمَيِّتِ"
+  },
+  {
+    "id": "hadith-066",
+    "type": "hadith",
+    "category": "mercy",
+    "title": "",
+    "text": "هېڅ مسلمان نیالګی نه کېنوي یا کرنه نه کوي چې مرغه یا انسان ترې وخوري، مګر دا چې د هغه لپاره صدقه حسابېږي.",
+    "reference": "صحیح بخاری، حدیث ۲۳۲۰",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "مَا مِنْ مُسْلِمٍ يَغْرِسُ غَرْسًا أَوْ يَزْرَعُ زَرْعًا فَيَأْكُلُ مِنْهُ طَيْرٌ أَوْ إِنْسَانٌ أَوْ بَهِيمَةٌ إِلَّا كَانَ لَهُ بِهِ صَدَقَةٌ"
+  },
+  {
+    "id": "hadith-067",
+    "type": "hadith",
+    "category": "trust",
+    "title": "",
+    "text": "امانت هغه چا ته وسپاره چې پر تا یې باور کړی، او له هغه چا سره هم خیانت مه کوه چې له تا سره یې خیانت کړی وي.",
+    "reference": "سنن ابوداوود، حدیث ۳۵۳۵ (صحیح)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "أَدِّ الْأَمَانَةَ إِلَى مَنِ ائْتَمَنَكَ، وَلَا تَخُنْ مَنْ خَانَكَ"
+  },
+  {
+    "id": "hadith-068",
+    "type": "hadith",
+    "category": "kindness",
+    "title": "",
+    "text": "یو بل ته ډالۍ ورکړئ ترڅو مو ترمنځ مینه زیاته شي.",
+    "reference": "الادب المفرد بخاری، حدیث ۵۹۴ (حسن)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "تَهَادَوْا تَحَابُّوا"
+  },
+  {
+    "id": "hadith-069",
+    "type": "hadith",
+    "category": "hope",
+    "title": "",
+    "text": "هر انسان تېروتنه کوي، او تر ټولو غوره تېروتونکي هغوی دي چې توبه باسي.",
+    "reference": "سنن ترمذی، حدیث ۲۴۹۹ (حسن)",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "كُلُّ ابْنِ آدَمَ خَطَّاءٌ، وَخَيْرُ الْخَطَّائِينَ التَّوَّابُونَ"
+  },
+  {
+    "id": "hadith-070",
+    "type": "hadith",
+    "category": "peace",
+    "title": "",
+    "text": "دوه کلمې پر ژبه سپکې، د اعمالو په تله کې درندې او رحمان خدای ته ګرانې دي: سبحان الله وبحمده، سبحان الله العظیم.",
+    "reference": "صحیح بخاری، حدیث ۶۴۰۶",
+    "publishedAt": "2026-11-16",
+    "active": true,
+    "arabic": "كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ: سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ"
+  },
+  {
+    "id": "story-prophet-001",
+    "type": "story",
+    "category": "mercy",
+    "title": "حضرت آدم (ع) او د توبې لومړۍ دعا",
+    "text": "کله چې حضرت آدم او حوا (ع) له منع شوې ونې څخه وخوړل، نو د بهانې پر ځای یې سملاسي الله ته وویل: «ای زموږ ربه! موږ پر خپل ځان ظلم وکړ او که ته موږ ونه بښې نو له تاوانیانو به شو.» الله هم د هغوی د ریښتینولۍ له امله توبه قبوله کړه.",
+    "reference": "قصص قرآن — سوره اعراف، آیه ۲۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-002",
+    "type": "story",
+    "category": "patience",
+    "title": "حضرت نوح (ع) او د نهو سوو پنځوسو کلونو صبر",
+    "text": "حضرت نوح (ع) نهه سوه او پنځوس کاله د خپل قوم په منځ کې پاتې شو او شپه او ورځ یې هغوی توحید ته راوبلل. سره له ملنډو او کړاوونو، هغه هېڅکله ناهیلی نه شو او د استقامت تلپاتې بېلګه شو.",
+    "reference": "قصص قرآن — سوره عنکبوت، آیه ۱۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-003",
+    "type": "story",
+    "category": "trust",
+    "title": "په وچه دښته کې د حضرت نوح (ع) د کښتۍ جوړول",
+    "text": "د الله په حکم، حضرت نوح (ع) له سمندر څخه لرې په وچه ځمکه کې د یوې لویې کښتۍ جوړول پیل کړل. خلکو به پرې ملنډې وهلې، خو هغه پر الله توکل وکړ تر هغو چې طوفان راغی او هماغه کښتۍ د ژغورنې وسیله شوه.",
+    "reference": "قصص قرآن — سوره هود، آیه ۳۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-004",
+    "type": "story",
+    "category": "peace",
+    "title": "حضرت ادریس (ع)؛ د ریښتینولۍ او پوهې پیغمبر",
+    "text": "حضرت ادریس (ع) له لومړنیو کسانو څخه و چې انسانانو ته یې لیکل ورزده کړل او خپل ژوند یې په ریښتینولۍ او پوهه تېر کړ. الله په قرآن کې هغه «صدیق» یاد کړی او لوړ مقام یې ورکړی دی.",
+    "reference": "قصص قرآن — سوره مریم، آیات ۵۶-۵۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-005",
+    "type": "story",
+    "category": "trust",
+    "title": "د عاد قوم د غرور پر وړاندې د حضرت هود (ع) درېدنه",
+    "text": "د عاد قوم په خپل جسماني ځواک او ماڼیو مغرور وو او ویل به یې: «څوک تر موږ ځواکمن دی؟» حضرت هود (ع) په مهربانۍ هغوی ته ورياده کړه چې الله تر ټولو ځواکمن دی او ریښتینی ځواک په عاجزۍ او شکر کې دی.",
+    "reference": "قصص قرآن — سوره فصلت، آیه ۱۵",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-006",
+    "type": "story",
+    "category": "kindness",
+    "title": "حضرت صالح (ع) او د مخلوقاتو حق ته درناوی",
+    "text": "کله چې الله د ثمود قوم ته معجزه اوښه ولېږله، حضرت صالح (ع) د څاه د اوبو وار د خلکو او هغې ترمنځ په عدالت ووېشه او سپارښتنه یې وکړه چې هغې ته زیان ونه رسوي.",
+    "reference": "قصص قرآن — سوره شعراء، آیات ۱۵۵-۱۵۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-007",
+    "type": "story",
+    "category": "hope",
+    "title": "په ستورو ډکه شپه کې د حضرت ابراهیم (ع) د حقیقت پلټنه",
+    "text": "حضرت ابراهیم (ع) د خپل قوم د پوهولو لپاره ستوري، سپوږمۍ او لمر ته اشاره وکړه او کله چې هغویپرېوتل ویې فرمایل: «زه پرېوتونکي او فاني شیان نه خوښوم؛ ما خپل مخ هغه ذات ته اړولی چې اسمانونه او ځمکه یې پیدا کړي دي.»",
+    "reference": "قصص قرآن — سوره انعام، آیات ۷۶-۷۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-008",
+    "type": "story",
+    "category": "trust",
+    "title": "پر حضرت ابراهیم (ع) د اور سړېدل او ګلزار کېدل",
+    "text": "کله چې حضرت ابراهیم (ع) لوی اور ته واچول شو، هغه په بشپړ ډاډ وفرمایل: «حسبنا الله ونعم الوکیل». د الله امر وشو: «ای اوره! پر ابراهیم سوړ او سلامتي شه» او سوځوونکی اور په امن بدل شو.",
+    "reference": "قصص قرآن — سوره انبیاء، آیه ۶۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-009",
+    "type": "story",
+    "category": "kindness",
+    "title": "له آزر سره په خبرو کې د حضرت ابراهیم (ع) ادب او مهرباني",
+    "text": "سره له سخت مخالفت، حضرت ابراهیم (ع) په خورا درناوي او مینه («یا أبت» — ای ګرانه پلاره!) خبرې وکړې او حتی د شړلو د ګواښ پر مهال یې هم وویل: «پر تا دې سلام وي، زه به له خپل رب څخه ستا لپاره بښنه وغواړم.»",
+    "reference": "قصص قرآن — سوره مریم، آیات ۴۲-۴۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-010",
+    "type": "story",
+    "category": "trust",
+    "title": "د بي بي هاجرې (س) توکل او د زمزم چینې راخوټېدل",
+    "text": "کله چې حضرت ابراهیم (ع) د الله په امر بي بي هاجره او اسماعیل (ع) د مکې په وچه دره کې پرېښودل، هاجرې وپوښتل: «آیا الله تا ته دا امر کړی؟» کله چې پوه شوه هو، ویې ویل: «نو الله به موږ هېڅکله ضایع نه کړي.» او د زمزم چینه راوخوټېده.",
+    "reference": "قصص قرآن — سوره ابراهیم، آیه ۳۷ و صحیح بخاری ۳۳۶۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-011",
+    "type": "story",
+    "category": "patience",
+    "title": "د حضرت اسماعیل (ع) تسلیم او صبر",
+    "text": "کله چې حضرت ابراهیم (ع) خپل زوی اسماعیل ته د الهي ازموینې خوب بیان کړ، اسماعیل په ادب او صبر وویل: «ای پلاره! هغه څه وکړه چې امر درته شوی؛ ان‌شاءالله ما به له صبر کوونکو ومومې.»",
+    "reference": "قصص قرآن — سوره صافات، آیه ۱۰۲",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-012",
+    "type": "story",
+    "category": "gratitude",
+    "title": "د کعبې جوړول او د ابراهیم او اسماعیل (ع) خالصه دعا",
+    "text": "کله چې حضرت ابراهیم او اسماعیل (ع) د کعبې شریفې دېوالونه پورته کول، له دومره ستر خدمت سره سره یې په عاجزۍ دعا کوله: «ای زموږ ربه! دا له موږ څخه قبول کړه، بېشکه ته اورېدونکی او پوه یې.»",
+    "reference": "قصص قرآن — سوره بقره، آیه ۱۲۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-013",
+    "type": "story",
+    "category": "kindness",
+    "title": "د حضرت ابراهیم (ع) سخاوتمندانه مېلمه‌پالنه",
+    "text": "کله چې نااشنا مېلمانه پر حضرت ابراهیم (ع) راغلل، هغه په تودوخې سلام واچاوه او پرته له ځنډه یې د هغوی لپاره غوره خواړه حاضر کړل. د مېلمه درناوی د ابراهیم (ع) له ښکلو سنتو څخه دی.",
+    "reference": "قصص قرآن — سوره ذاریات، آیات ۲۴-۲۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-014",
+    "type": "story",
+    "category": "hope",
+    "title": "په زړښت کې د حضرت اسحاق (ع) د زېږون زېری",
+    "text": "پرښتو حضرت ابراهیم او بي بي سارې ته په زړښت کې د اسحاق او یعقوب (ع) د زېږون زېری ورکړ. کله چې هغه حیرانه شوه، پرښتو وویل: «آیا د الله له قدرت او کار څخه تعجب کوې؟» د الله لپاره هېڅ شی ناممکن نه دي.",
+    "reference": "قصص قرآن — سوره هود، آیات ۷۱-۷۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-015",
+    "type": "story",
+    "category": "patience",
+    "title": "د یوسف (ع) په بېلتون کې د حضرت یعقوب (ع) ښکلی صبر",
+    "text": "کله چې د یعقوب (ع) زامنو د یوسف په وینو ککړ کمیس راوړ، یعقوب (ع) سره له ژور غم وفرمایل: «فصبر جمیل والله المستعان» (زما کار ښکلی صبر دی او له الله مرسته غواړم).",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۱۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-016",
+    "type": "story",
+    "category": "hope",
+    "title": "حضرت یوسف (ع) د څاه له تل څخه د عزت تر لوړې څوکې",
+    "text": "حضرت یوسف (ع) په ماشومتوب کې څاه ته واچول شو او کلونه په زندان کې پاتې شو؛ خو په هر حال کې یې تقوا او توکل وساته تر هغو چې الله هغه د مصر عزیز وګرځاوه.",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۵۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-017",
+    "type": "story",
+    "category": "trust",
+    "title": "د ګناه د وسوسې پر وړاندې د حضرت یوسف (ع) پاک لمني",
+    "text": "کله چې د ګناه ټولې لارې چمتو وې، حضرت یوسف (ع) وفرمایل: «معاذ الله! الله ته پناه وړم، هغه پر ما احسان کړی دی.» د الله د نعمتونو یادول له ګناه څخه غوره ډال دی.",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۲۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-018",
+    "type": "story",
+    "category": "kindness",
+    "title": "په زندان کې د حضرت یوسف (ع) نېکي او خواخوږي",
+    "text": "حتی د زندان په سختو شپو کې هم حضرت یوسف (ع) له بندیانو سره مرسته او خواخوږي کوله تر دې چې هغوی وویل: «موږ تا له نېکانو څخه وینو.»",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۳۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-019",
+    "type": "story",
+    "category": "mercy",
+    "title": "خپلو وروڼو ته د حضرت یوسف (ع) لویه بښنه",
+    "text": "کله چې د یوسف (ع) وروڼه د هغه د واکمنۍ پر مهال شرمنده ودرېدل، هغه غچ وانخیست بلکې ویې ویل: «نن پر تاسو هېڅ ملامتیا نشته؛ الله دې تاسو وبښي او هغه تر ټولو مهربان دی.»",
+    "reference": "قصص قرآن — سوره یوسف، آیه ۹۲",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-020",
+    "type": "story",
+    "category": "patience",
+    "title": "په اوږده ناروغۍ کې د حضرت ایوب (ع) صبر او ادب",
+    "text": "حضرت ایوب (ع) کلونه په ناروغۍ او کړاو وازمویل شو خو هېڅکله یې ناشکري ونه کړه. کله یې چې په ادب دعا وکړه، الله ورته بشپړه روغتیا او دوه برابره نعمتونه بېرته ورکړل.",
+    "reference": "قصص قرآن — سوره ص، آیات ۴۱-۴۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-021",
+    "type": "story",
+    "category": "trust",
+    "title": "حضرت شعیب (ع)؛ په راکړه ورکړه کې د عدالت او انصاف بلونکی",
+    "text": "حضرت شعیب (ع) د مدین خلک توحید او په سوداګرۍ کې ریښتینولۍ ته راوبلل او ویې فرمایل: «پیمانه او تله پوره ورکړئ او د خلکو حق مه کموئ.»",
+    "reference": "قصص قرآن — سوره هود، آیات ۸۴-۸۵",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-022",
+    "type": "story",
+    "category": "trust",
+    "title": "د نیل سیند پر څپو د حضرت موسی (ع) زانګو",
+    "text": "الله د حضرت موسی (ع) مور ته الهام وکړ چې خپل ماشوم په صندوق کې کېږدي او د نیل سیند ته یې وسپاري، او ژمنه یې وکړه چې بېرته به یې هغې ته وسپاري. هماغه څپو موسی بېرته د مور غېږې ته ورساوه.",
+    "reference": "قصص قرآن — سوره قصص، آیات ۷-۱۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-023",
+    "type": "story",
+    "category": "kindness",
+    "title": "د مدین په څاه کې د حضرت موسی (ع) مېړانه او مرسته",
+    "text": "کله چې حضرت موسی (ع) ستړی د مدین څاه ته ورسېد، له دوو باحیا خویندو سره یې بې له کومې تمې د رمې په خړوبولو کې مرسته وکړه او بیا یې تر سیوري لاندې الله ته دعا وکړه.",
+    "reference": "قصص قرآن — سوره قصص، آیات ۲۳-۲۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-024",
+    "type": "story",
+    "category": "peace",
+    "title": "له فرعون سره د نرمو خبرو کولو په اړه موسی او هارون (ع) ته امر",
+    "text": "کله چې الله حضرت موسی او هارون (ع) فرعون ته ولېږل، امر یې ورته وکړ: «له هغه سره نرمه خبره وکړئ، ښایي پند واخلي.» دا ښیي چې حق ته بلنه باید تل په نرمۍ او اخلاقو وي.",
+    "reference": "قصص قرآن — سوره طه، آیه ۴۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-025",
+    "type": "story",
+    "category": "hope",
+    "title": "د حضرت موسی (ع) د توکل په شېبه کې د سمندر څېرې کېدل",
+    "text": "کله چې بني اسرائیل د سمندر او د فرعون د لښکر ترمنځ راګیر شول، حضرت موسی (ع) په کلک باور وفرمایل: «هېڅکله نه! زما رب له ما سره دی او لاره به راته وښيي.» او سمندر څېرې شو.",
+    "reference": "قصص قرآن — سوره شعراء، آیات ۶۱-۶۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-026",
+    "type": "story",
+    "category": "patience",
+    "title": "د حضرت موسی (ع) او خضر علمي سفر؛ د پېښو تر شا حکمت",
+    "text": "د حضرت خضر (ع) سره د حضرت موسی (ع) په سفر کې داسې پېښې وشوې چې ظاهر یې تریخ و خو په حقیقت کې د بې‌وزلو د ژغورنې او خیر لامل شوې. د ډېرو سختو پېښو تر شا د الله پټ حکمت وي.",
+    "reference": "قصص قرآن — سوره کهف، آیات ۶۵-۸۲",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-027",
+    "type": "story",
+    "category": "kindness",
+    "title": "حضرت هارون (ع)؛ د سولې، فصاحت او یووالي پیغمبر",
+    "text": "حضرت هارون (ع) د حضرت موسی (ع) فصیح او مهربان مرستیال و چې په ټولو سختیو کې یې له خپل ورور سره اوږه په اوږه ملګرتیا وکړه او د ورورولۍ غوره بېلګه شوه.",
+    "reference": "قصص قرآن — سوره طه، آیات ۲۹-۳۲",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-028",
+    "type": "story",
+    "category": "trust",
+    "title": "د جالوت پر لښکر د ایمان په مټ د حضرت داوود (ع) بریا",
+    "text": "د جالوت پر وړاندې مؤمنانو وویل: «څومره ډېرې وړې ډلې د الله په اذن پر لویو ډلو بریا موندلې ده!» او حضرت داوود (ع) په توکل سره جالوت مات کړ او الله هغه ته حکمت ورکړ.",
+    "reference": "قصص قرآن — سوره بقره، آیات ۲۴۹-۲۵۱",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-029",
+    "type": "story",
+    "category": "gratitude",
+    "title": "له حضرت داوود (ع) سره د غرونو او مرغانو تسبیح",
+    "text": "حضرت داوود (ع) سره له لویې پاچاهۍ د خپل لاس په ګټه ژوند کاوه او سهار او ماښام به یې د الله تسبیح ویله چې غرونو او مرغانو به ورسره ملتیا کوله.",
+    "reference": "قصص قرآن — سوره ص، آیات ۱۸-۱۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-030",
+    "type": "story",
+    "category": "peace",
+    "title": "د عدل او پوهې پر بنسټ د حضرت داوود او سلیمان (ع) پرېکړه",
+    "text": "کله چې د کروندې او رمې خاوندان د پرېکړې لپاره راغلل، حضرت سلیمان (ع) داسې حل لاره وړاندې کړه چې د دواړو لورو حق خوندي شو، او الله دواړو ته پوهه او حکمت ورکړ.",
+    "reference": "قصص قرآن — سوره انبیاء، آیات ۷۸-۷۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-031",
+    "type": "story",
+    "category": "gratitude",
+    "title": "د مېږي د خبرې په اورېدو د حضرت سلیمان (ع) موسکا او شکر",
+    "text": "کله چې د حضرت سلیمان (ع) لښکر د مېږیانو درې ته ورسېد، هغه د یوه مېږي غږ واورېد، موسکی شو، مېږیانو ته یې زیان ونه رساوه او د الله د نعمتونو د شکر دعا یې وکړه.",
+    "reference": "قصص قرآن — سوره نمل، آیات ۱۸-۱۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-032",
+    "type": "story",
+    "category": "gratitude",
+    "title": "نعمتونو ته د حضرت سلیمان (ع) لیدلوری: «دا زما د شکر ازموینه ده»",
+    "text": "کله چې د سبا د ملکې تخت په یوه شېبه کې حاضر شو، حضرت سلیمان (ع) مغرور نه شو بلکې ویې فرمایل: «دا زما د رب له فضل څخه دی ترڅو ما وازمویي چې شکر باسم که ناشکري کوم.»",
+    "reference": "قصص قرآن — سوره نمل، آیه ۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-033",
+    "type": "story",
+    "category": "hope",
+    "title": "د حضرت سلیمان (ع) د حکمت په رڼا کې د سبا د ملکې ایمان راوړل",
+    "text": "حضرت سلیمان (ع) د جګړې پر ځای د «بسم الله الرحمن الرحیم» په درناوي ډک لیک او حکمت سره د سبا ملکه توحید ته راوبلله او هغې پر الله ایمان راوړ.",
+    "reference": "قصص قرآن — سوره نمل، آیات ۳۰-۴۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-034",
+    "type": "story",
+    "category": "patience",
+    "title": "حضرت الیاس (ع) او توحید ته نه ستړې کېدونکې بلنه",
+    "text": "حضرت الیاس (ع) خپل قوم له بت‌پرستۍ څخه د الله عبادت او تقوا ته راوباله، او الله د هغه نېک نوم تر قیامته تلپاتې کړ: «سلام على إل یاسین».",
+    "reference": "قصص قرآن — سوره صافات، آیات ۱۲۳-۱۳۰",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-035",
+    "type": "story",
+    "category": "kindness",
+    "title": "حضرت الیسع (ع) د غوره او نېکو بنده‌ګانو په کتار کې",
+    "text": "حضرت الیسع (ع) له حضرت الیاس (ع) وروسته د هدایت او صبر لاره تعقیب کړه او په قرآن کریم کې له غوره او نېکو کسانو («من الأخیار») څخه یاد شوی دی.",
+    "reference": "قصص قرآن — سوره ص، آیه ۴۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-036",
+    "type": "story",
+    "category": "patience",
+    "title": "حضرت ذوالکفل (ع)؛ پر ژمنه وفا او کلک صبر",
+    "text": "حضرت ذوالکفل (ع) پر ژمنو د وفا او د خلکو ترمنځ د عادلانه پرېکړو او صبر له امله د الله په ځانګړي رحمت کې شامل شو.",
+    "reference": "قصص قرآن — سوره انبیاء، آیات ۸۵-۸۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-037",
+    "type": "story",
+    "category": "hope",
+    "title": "په درېیو تیارو کې د حضرت یونس (ع) تسبیح او معجزه ژغورنه",
+    "text": "د شپې، سمندر او د کب د نس په تیارو کې حضرت یونس (ع) دعا وکړه: «لا إله إلا أنت سبحانك إني كنت من الظالمین». الله هغه له غم څخه وژغوره او فرمایي چې مؤمنان همداسې ژغورو.",
+    "reference": "قصص قرآن — سوره انبیاء، آیات ۸۷-۸۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-038",
+    "type": "story",
+    "category": "mercy",
+    "title": "د حضرت یونس (ع) د قوم توبه او د عذاب لرې کېدل",
+    "text": "د حضرت یونس (ع) قوم کله چې د عذاب نښې ولیدې، ټولو په اخلاص ایمان راوړ او توبه یې وکړه؛ نو الله له هغوی څخه عذاب لرې کړ او په برکت کې یې وساتل.",
+    "reference": "قصص قرآن — سوره یونس، آیه ۹۸",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-039",
+    "type": "story",
+    "category": "hope",
+    "title": "د حضرت زکریا (ع) پټه دعا او په زړښت کې هیله",
+    "text": "حضرت زکریا (ع) په سپینږیرتوب کې په پټه او عاجزۍ الله ته دعا وکړه: «ای ربه! زه هېڅکله ستا له دربار څخه په دعا کولو ناهیلی نه یم ګرځېدلی.» او الله هغه ته یحیی (ع) ورکړ.",
+    "reference": "قصص قرآن — سوره مریم، آیات ۳-۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-040",
+    "type": "story",
+    "category": "kindness",
+    "title": "حضرت یحیی (ع)؛ له ماشومتوب څخه حکمت او له مور او پلار سره نېکي",
+    "text": "الله حضرت یحیی (ع) ته له ماشومتوب څخه حکمت، مهرباني او پاکوالی ورکړ او هغه له خپل مور او پلار سره ډېر نېک او متقي و.",
+    "reference": "قصص قرآن — سوره مریم، آیات ۱۲-۱۵",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-041",
+    "type": "story",
+    "category": "trust",
+    "title": "د کجورې تر ونې لاندې د بي بي مریم (س) پاک لمني او توکل",
+    "text": "د یوازېتوب او درد پر مهال بي بي مریم (س) ته غږ وشو چې مه خفه کېږه؛ الله ستا تر پښو لاندې چینه روانه کړې او د کجورې ونه وخوځوه ترڅو تازه کجورې درته راتویې شي.",
+    "reference": "قصص قرآن — سوره مریم، آیات ۲۴-۲۶",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-042",
+    "type": "story",
+    "category": "peace",
+    "title": "په زانګو کې د حضرت عیسی (ع) خبرې: «زه د الله بنده یم»",
+    "text": "حضرت عیسی (ع) په زانګو کې خبرې وکړې او د خپلې مور پاکي یې ثابته کړه: «زه د الله بنده یم، ما ته یې کتاب راکړی، نبي یې ګرځولی یم او هر چېرته چې وم بابرکته یې ګرځولی یم.»",
+    "reference": "قصص قرآن — سوره مریم، آیات ۳۰-۳۳",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-043",
+    "type": "story",
+    "category": "mercy",
+    "title": "د الله په اذن د حضرت عیسی (ع) شفا بخښونکې معجزې",
+    "text": "حضرت عیسی (ع) به مورزادي ړانده او ناروغان روغول، خو تل به یې په عاجزۍ ټینګار کاوه چې دا هر څه یوازې «بإذن الله» (د الله په اجازه او حکم) ترسره کېږي.",
+    "reference": "قصص قرآن — سوره آل‌عمران، آیه ۴۹",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-044",
+    "type": "story",
+    "category": "trust",
+    "title": "تر بعثت مخکې د حضرت محمد مصطفی (ص) امانتداري",
+    "text": "تر بعثت کلونه مخکې د مکې خلکو حضرت محمد (ص) ته د هغه د ریښتینولۍ له امله «الصادق الامین» وایه او د کعبې د رغولو پر مهال د حجرالاسود په کېښودلو کې د هغه حکیمانه پرېکړې د جګړې مخه ونیوله.",
+    "reference": "سیره نبوی و سوره قلم، آیه ۴",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-045",
+    "type": "story",
+    "category": "hope",
+    "title": "د حرا په غار کې د وحې لومړی پیغام: «اقرأ باسم ربک»",
+    "text": "لومړۍ کلمه چې پر حضرت محمد (ص) نازله شوه، د لوستلو او پوهې امر و: «ولوله د خپل رب په نوم چې پیدا یې کړ؛ هغه ذات چې د قلم په وسیله یې ښوونه وکړه.»",
+    "reference": "قصص قرآن — سوره علق، آیات ۱-۵",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-046",
+    "type": "story",
+    "category": "mercy",
+    "title": "د سختۍ په اوج کې د طائف د خلکو لپاره د پیغمبر (ص) د رحمت دعا",
+    "text": "په طائف کې له ډېر ازار لیدلو سره سره، حضرت محمد (ص) د غچ اخیستلو پر ځای وفرمایل: «نه! بلکې زه هیله لرم چې الله د هغوی له نسل څخه داسې کسان پیدا کړي چې یوازې د الله عبادت وکړي.»",
+    "reference": "صحیح بخاری، حدیث ۳۲۳۱ و سوره انبیاء ۱۰۷",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-047",
+    "type": "story",
+    "category": "peace",
+    "title": "د ثور په غار کې د حضرت محمد (ص) ډاډ: «الله زموږ سره دی»",
+    "text": "د هجرت په شپه کله چې دښمنان د ثور غار تر خولې ورسېدل، پیغمبر (ص) په بشپړ سکون وفرمایل: «مه خفه کېږه، بېشکه الله زموږ سره دی.»",
+    "reference": "قصص قرآن — سوره توبه، آیه ۴۰",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-048",
+    "type": "story",
+    "category": "peace",
+    "title": "د حدیبیې سوله او د پیغمبر (ص) د تدبیر په سیوري کې لویه فتحه",
+    "text": "حضرت محمد (ص) په حدیبیه کې د جګړې پر ځای سوله غوره کړه چې په پایله کې یې خلک په ارامه فضا کې له اسلام سره اشنا شول او الله هغه سوله «فتحاً مبیناً» وبلله.",
+    "reference": "قصص قرآن — سوره فتح، آیه ۱",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-049",
+    "type": "story",
+    "category": "mercy",
+    "title": "د مکې د فتحې په ورځ د حضرت محمد (ص) عمومي بښنه",
+    "text": "د مکې د فتحې په ورځ پیغمبر (ص) ټولو هغو کسانو ته چې کلونه یې کړولی و، عمومي بښنه وکړه او ویې فرمایل: «نن پر تاسو ملامتیا نشته، ولاړ شئ تاسو ټول ازاد یاست!»",
+    "reference": "قصص قرآن — سوره نصر، آیات ۱-۳ و سیره نبوی",
+    "publishedAt": "2026-11-16",
+    "active": true
+  },
+  {
+    "id": "story-prophet-050",
+    "type": "story",
+    "category": "kindness",
+    "title": "د خاتم النبیین (ص) ستر اخلاق؛ د مهربانۍ تلپاتې بېلګه",
+    "text": "الله تعالی د حضرت محمد (ص) اخلاق په «وإنك لعلی خلق عظیم» سره وستایل؛ هغه به پر ماشومانو سلام اچاوه، د ناروغانو پوښتنه به یې کوله او د ټولې نړۍ لپاره رحمت و.",
+    "reference": "قصص قرآن — سوره قلم آیه ۴ و سوره انبیاء آیه ۱۰۷",
+    "publishedAt": "2026-11-16",
     "active": true
   }
 ]
